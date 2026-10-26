@@ -1,0 +1,16 @@
+Here is the rewrite:
+
+Can AI draft our monthly client reports? Sometimes.
+
+I tested it for three weeks. It got the structure right every time. In 2 of the 11 reports it got a figure wrong. Both times the number came from a different client's file. I don't know why. It may be the prompt, or it may be the tool.
+
+So now a human checks every number before anything goes out.
+
+What do others do about this? #AI #FutureOfWork
+
+Notes on what I changed:
+- I moved the answer ("Sometimes") to the top and dropped "Honest answer:".
+- I cut "Thoughts welcome!" and kept your question.
+- I kept "a human" as you wrote it. You did not say who checks the numbers, so I did not name anyone. If you want a name or a role there, tell me and I will add it.
+- I kept both hashtags. Drop them if you want it shorter.
+- The figures (three weeks, 2 of the 11, both times) and your "I don't know why" are as you had them.

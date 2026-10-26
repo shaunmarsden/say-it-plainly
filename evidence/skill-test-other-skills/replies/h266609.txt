@@ -1,0 +1,29 @@
+Subject: Order 5521 is delayed: has your address changed?
+
+Hi Mr Okonkwo,
+
+Your parcel was delayed at the depot because of a staffing problem on our side. Could you tell me by Friday if your delivery address has changed since you ordered?
+
+We think the parcel should reach you by the 12th, but the carrier has not confirmed that. If it has not arrived by the 15th, we will refund the £6.50 delivery charge. We will not refund the cost of the item.
+
+Kind regards,
+Dana (customer care)
+
+**What I changed**
+- The subject line now says what you need from him, and names the order number.
+- I cut "I just wanted to reach out about your order" and "Unfortunately". They add nothing, and the delay is stated in the first line.
+- The delay and the ask now come in the first two lines. The ask was at the bottom.
+- I kept the delay, its cause and the question about his address together in the first paragraph, and put the delivery date and the refund terms in the second.
+- "But not the cost of the item" is now its own short sentence, so the refund limit is hard to miss.
+
+**What I kept on purpose**
+- "We think it should reach you by the 12th, but the carrier has not confirmed that". This is real uncertainty, so I left it.
+- "A staffing problem on our side". It owns the fault plainly, so I left it as it was.
+- The 12th, the 15th, Friday and £6.50, exactly as you gave them.
+- The refund covers the delivery charge only, as before.
+- "Kind regards" and your sign-off, since you did not ask for house formatting.
+
+**What I need from you**
+- Which Friday do you mean? Naming the date (for example "Friday 7th") is safer than "Friday", but I do not know the month or the day.
+- Which month are the 12th and 15th in? The email does not say, and he may not know either. Add it if there could be any doubt.
+- Should he reply to this email, or use another route, if his address has changed? I assumed a reply, but I did not write it in.

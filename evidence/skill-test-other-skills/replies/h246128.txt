@@ -1,0 +1,27 @@
+Here is a clearer version:
+
+---
+
+I spent three weeks testing whether AI can draft our monthly client reports. It can, but not reliably.
+
+It got the structure right every time. It got a figure wrong in 2 of the 11 reports. Both times, the number came from a different client's file. I don't know why. It could be my prompt or it could be the tool.
+
+So a person now checks every number before a report goes out.
+
+If you use AI for client reports, how do you stop it pulling figures from the wrong file?
+
+#AI #FutureOfWork
+
+---
+
+What I changed:
+
+- The opening now gives the answer in the same breath as the question, so "Honest answer: sometimes" is no longer a separate beat. "Sometimes" was vague, so I replaced it with "can, but not reliably", which is what your numbers actually show.
+- I joined "both times a number that belonged to a different client's file" to the sentence before it. That is the most important detail in the post, and it reads better as one thought.
+- "Maybe the prompt, maybe the tool" is now one sentence, so the uncertainty is stated once and plainly.
+- "A human checks" became "a person now checks", which sounds less like a policy memo.
+- "Curious what others do about this? Thoughts welcome!" was the weakest part, because "this" could mean anything. The new question names the exact problem, which makes it easier for someone to answer from experience.
+
+One thing to check: I kept "11 reports" and "2 of the 11" as you wrote them. If the three weeks covered more than one run per report, say so, because readers will wonder.
+
+If you want it shorter, you can cut "So a person now checks every number before a report goes out." into the question, but I would keep it. It tells readers what you actually did about the problem.

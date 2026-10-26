@@ -1,0 +1,27 @@
+Subject: Order 5521 is delayed: can you confirm your address by Friday?
+
+Hi Mr Okonkwo,
+
+Your parcel is delayed, and I need to check one thing. Has your delivery address changed since you ordered? Please let me know by Friday.
+
+The parcel was held up at the depot because of a staffing problem on our side. We think it should reach you by the 12th, but the carrier has not confirmed that. If it has not arrived by the 15th, we will refund the £6.50 delivery charge, but not the cost of the item.
+
+Kind regards,
+Dana (customer care)
+
+**What I changed**
+- Moved the address question to the top and put it in the subject line, since it is the one thing you need from him.
+- Cut "I just wanted to reach out about your order" and "Unfortunately", which did no work.
+- Split the refund sentence so the delay, the estimate and the refund each have their own sentence.
+- Put the cause in a clause with "because" instead of a separate "which was down to".
+
+**What I kept on purpose**
+- "We think it should reach you by the 12th, but the carrier has not confirmed that". This is honest uncertainty.
+- The dates, the £6.50, the order number and "but not the cost of the item", with the same scope as before.
+- "On our side", so the fault stays with you.
+- "Kind regards" and your sign-off. You did not ask for house formatting, so I left them alone.
+
+**What I need from you**
+- Is "Friday" clear enough for him, or should it be a date, such as "Friday 9th"? I did not guess the date.
+- Do you want an apology in it? The original did not have one, so I did not add one.
+- Is the depot yours or the carrier's? I wrote "the depot" so as not to claim either.

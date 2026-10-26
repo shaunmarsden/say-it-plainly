@@ -1,0 +1,12 @@
+Here is a clearer version. I kept every figure and caveat, and put the decision first.
+
+I need a decision from you by 8 November: should we extend the new triage rota to weekdays at all sites?
+
+I recommend yes. In the four-week pilot, the rota cut average first-response time from 41 to 29 minutes. Two limits apply to that result:
+
+- The pilot covered weekdays only, so we have no weekend data. I recommend holding off on weekends until we do.
+- The team lead thinks most of the gain comes from the extra person on Mondays. We have not tested that, so we don't yet know which part of the rota is doing the work.
+
+The cost is roughly £2,400 a month per site. That is an estimate from finance, not a quote.
+
+Two things I changed beyond wording. I moved the deadline and the ask to the top, so the reader sees what is needed first. I also split the result from its limits, so neither gets lost. I did not add anything that was not in your original.

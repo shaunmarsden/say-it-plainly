@@ -1,0 +1,19 @@
+Rewritten text:
+
+We moved the Leeds team to the new booking tool on the 3rd. Most of the team were fine with it. Two said it was slower than before, and one has not logged in yet.
+
+Bookings are down about 8% on the same week last year. That week had a bank holiday, so I would not read much into the drop. Rachel is looking at whether to keep the old tool running alongside until the end of the month. There is no decision yet.
+
+**What I changed**
+- Split the long first sentence into three short ones.
+- Split the bookings sentence in two and used "so" to link the bank holiday to the conclusion.
+- Changed "it" to "the drop", so the reader knows what not to read much into.
+
+**What I kept on purpose**
+- "About 8%", "I would not read much into it" and "There is no decision yet". They mark real uncertainty, and I did not make them firmer.
+- "We", "Rachel is looking at" and the rest of your wording. It already sounds like you.
+
+**What I need from you**
+- Which week had the bank holiday: the one last year, this year's, or both? The sentence does not say, and the reader may need to know.
+- Who is reading this? If they do not know the new tool, one line naming it might help. I did not add one.
+- Does "the end of the month" mean this month? If the reader could take it another way, give the date.

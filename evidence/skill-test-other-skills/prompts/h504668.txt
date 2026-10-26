@@ -1,0 +1,11 @@
+(The names and figures below are made up.)
+
+Rewrite this in plain words. Put the point first, use short everyday words, cut filler and name who did what. Keep every figure, every hedge and every disagreement exactly as strong as it is in my draft, and add no fact, name, date or owner that I did not give.
+
+I spent three weeks testing whether AI can draft our monthly client reports.
+
+Honest answer: sometimes. It got the structure right every time. It got a figure wrong in 2 of the 11 reports, both times a number that belonged to a different client's file. I don't know why. Maybe the prompt, maybe the tool.
+
+So now a human checks every number before anything goes out.
+
+Curious what others do about this? Thoughts welcome! #AI #FutureOfWork
