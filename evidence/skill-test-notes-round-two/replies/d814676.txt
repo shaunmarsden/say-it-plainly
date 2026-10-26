@@ -1,0 +1,35 @@
+Here is a clearer version. I kept the uncertain points marked as uncertain rather than tidying them into facts.
+
+**Call with Ardent Marine, 22 October**
+Present: Hollis (Ardent procurement), Mei (Ardent operations), Ravi (ours)
+
+**Competition**
+- Ardent is looking at two other suppliers. One is Tidewell. Hollis did not name the other.
+- Mei said Tidewell is cheaper, but she has heard their support is slow. This is hearsay, not something she has confirmed.
+
+**Price**
+- We quoted 52,000 for 12 months.
+- Hollis said this is above budget. Mei said it was fine. They disagree, and the budget is still unknown.
+- Action: Hollis to confirm the budget figure next week.
+
+**Contract end date (unresolved)**
+- Hollis said 31 March. Mei thought it was 30 April.
+- Action: Ravi to check the contract.
+
+**Onboarding**
+- Mei asked how long onboarding takes. Ravi said around 4 weeks, but that figure comes from a different customer and may not apply to Ardent. Treat it as a rough guide, not a commitment.
+
+**Security review**
+- Nobody mentioned a security review. We don't know whether Ardent needs one.
+
+**Next steps**
+- Next call: 5 November, but I am not certain of the date, so please confirm it.
+- Hollis wants Ravi to bring a reference customer to that call.
+
+**Open items**
+1. Ardent's actual budget (Hollis, next week)
+2. The contract end date: 31 March or 30 April (Ravi)
+3. The next call date (confirm 5 November)
+4. Whether a security review is needed (not raised)
+5. The name of the second competing supplier (not given)
+6. A reference customer for the next call (Ravi)
