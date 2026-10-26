@@ -1,0 +1,5 @@
+(The names and figures below are made up.)
+
+Rewrite this in plain words. Put the point first, use short everyday words, cut filler and name who did what. Keep every figure, every hedge and every disagreement exactly as strong as it is in my draft, and add no fact, name, date or owner that I did not give.
+
+Just to flag a finding on support volume. Support tickets rose 12% in the quarter after the 3.2 release, from 2,050 to 2,300. This may be related to the release, but it should be noted that the new onboarding emails also started going out in the same month, so I cannot separate the two. The analysis was done on the UK queue only. I did not look at the Ireland queue. On balance I would lean towards holding the 3.3 release until we know more, but that is your call.

@@ -1,0 +1,23 @@
+Support tickets rose 12% in the quarter after the 3.2 release, from 2,050 to 2,300. The rise may be related to the release, but the new onboarding emails also started going out that month, so I cannot separate the two. I lean towards holding the 3.3 release until we know more, but that is your call.
+
+This covers the UK queue only. I did not look at the Ireland queue.
+
+**What I changed**
+
+- Opened with the finding and moved the recommendation up into the same paragraph, so the first paragraph is enough to act on.
+- Cut "Just to flag a finding on", "it should be noted that" and "On balance", which did no work.
+- Joined the onboarding-emails point to the release point with "so", to show that the overlap is the reason you cannot separate them.
+- Moved the scope note (UK only, Ireland not checked) into its own short paragraph, so it is easy to find.
+
+**What I kept on purpose**
+
+- Both figures and the 12%. They match: 250 more tickets on 2,050 is about 12%.
+- "May be related". It marks real uncertainty about cause, so it stays.
+- "I lean towards" and "that is your call". The recommendation is a leaning, not a conclusion, and the decision is the reader's.
+- The plain, first-person voice.
+
+**What I need from you**
+
+- Where did the ticket counts come from (which system or report), and which quarters are you comparing?
+- Which month did 3.2 and the onboarding emails start? I kept "that month" as you wrote it.
+- What would "know more" mean here? For example, the Ireland queue, or a view of tickets from customers who did not get the new emails. A line on what you would look at next, and by when, would help the reader decide.

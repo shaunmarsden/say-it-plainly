@@ -33,12 +33,13 @@ My own formatting preferences, which I call house formatting (dates like 21st Ma
 ## What I have tested
 
 - **The checker.** 31 tests cover every flag, and the cases that must not be flagged, such as a clean email, a year in notes, or a number range. I broke the checker on purpose in 14 ways, for example by removing the overlap handling and by changing the long-sentence limit, and the tests caught all 14. One broken case slipped through the first time, because my test could not have caught it, so I rewrote the test and ran it again. In a browser I checked that pasted markup shows as plain text and creates no elements, that the page's only network request is its own `checker.js`, and that the console is clean.
+- **Whether the skills keep your claims.** On 26th October 2026 I ran a pre-registered test: three made-up drafts (an email, call notes, a report), each rewritten two ways by a bare request, a one-paragraph instruction and the matching skill. I scored 18 replies without knowing which arm each came from. The bare request lost or invented 5 things, the paragraph 1 and the skill 0. The skill and the paragraph are too close to tell apart, and the notes draft separated nothing. The sample is small and I wrote the drafts, the skills and the scoring. The [results](evidence/skill-test/results.md) have the detail, including the judgement calls I made in scoring.
 - **The install command.** On 26th October 2026 I ran `npx skills add shaunmarsden/say-it-plainly --skill plain-email` in an empty folder. It installed one skill, and the installed file was identical to `skills/plain-email/SKILL.md`. I ran it for that one skill only.
 - **The build.** The skills are generated from the files in `rules/`, so they cannot drift apart. 20 tests cover the build and the repository checks, including deliberate failures: a stray em dash, a hand-edited skill, a link inside a skill, and a rule that differs between the page and the source.
 
 ## What I have not tested
 
-- **Whether the skills improve real writing.** I wrote them from the rules above and have not yet tested them against a plain request. Until I have, treat them as a first draft.
+- **Whether the skills improve real writing.** The test above measured only whether claims survived a rewrite. I have not tested whether readers find the results easier to read.
 - **Anyone else's use.** Nobody outside this project has tried any of it.
 
 ## Limits

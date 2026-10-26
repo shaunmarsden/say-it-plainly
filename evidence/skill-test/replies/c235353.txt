@@ -1,0 +1,40 @@
+Here's a clearer version. I put the two things you need from Helen up front, then the status, and I kept the mid-June date as unconfirmed.
+
+Subject: Brightwell rollout: order form by Friday, and two questions
+
+Hi Helen,
+
+Thanks for your time on Tuesday. Here is where we got to.
+
+What I need from you
+- Please send back the signed order form by Friday.
+- Has your IT team approved the single sign-on setup yet?
+- Who should I speak to about the data-sharing agreement?
+
+Where things stand
+- Price: £18,000 for the first year, as discussed. This includes the training Dan ran in the pilot.
+- Timing: we may be able to have the rollout ready by mid-June. I need to check that with Owen on the engineering side first, so please treat it as provisional for now. I'll confirm once I've spoken to him.
+
+Best,
+Sam
+
+What I changed:
+- Cut the filler ("I just wanted to reach out and follow up", "I was also wondering whether") and made the requests direct.
+- Moved the Friday deadline and the two questions to the top, so Helen can see what she needs to do without reading to the end.
+- Kept every fact: Tuesday, mid-June pending Owen, £18,000 for the first year including Dan's pilot training, the Friday deadline, the SSO question and the data-sharing agreement contact.
+- Kept the mid-June date as a maybe. Your original didn't promise it, and a tidier email shouldn't make it sound firmer.
+
+One thing to check: the draft says you'll confirm the date after talking to Owen. If you can't commit to doing that, delete that sentence. I'd also consider asking Owen before you send, so you can give Helen a firm answer.
+
+If you'd like it shorter and less structured, here is a plain-prose version:
+
+Hi Helen,
+
+Thanks for your time on Tuesday. Could you send back the signed order form by Friday? The price is £18,000 for the first year, including the training Dan ran in the pilot.
+
+I think we can have the rollout ready by mid-June, but I need to check with Owen in engineering first, so please treat that date as provisional.
+
+Two questions for you: has your IT team approved the single sign-on setup, and who should I speak to about the data-sharing agreement?
+
+Best,
+Sam

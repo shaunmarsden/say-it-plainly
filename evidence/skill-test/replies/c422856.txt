@@ -1,0 +1,35 @@
+Subject: Re: Brightwell rollout: can you return the signed order form by Friday?
+
+Hi Helen,
+
+Thanks for your time on Tuesday. Could you send the signed order form back to me by Friday?
+
+The price we discussed is £18,000 for the first year. That includes the training Dan ran in the pilot.
+
+I think we can probably have the Brightwell rollout ready by mid-June, but I need to check with Owen on the engineering side before I can promise it.
+
+I have two questions as well. Has your IT team approved the single sign-on setup yet? And who should I speak to about the data-sharing agreement?
+
+Best,
+Sam
+
+**What I changed**
+
+- Moved the order form request to the second line, and put it in the subject line, so Helen sees what you want and by when straight away.
+- Cut "I just wanted to reach out and follow up on where we got to", "It would be great if" and "I was also wondering whether". They add no information.
+- Split the long paragraph into short ones, one idea each: the ask, the price, the rollout date, the two questions.
+- Changed the passive "the price that was discussed" and "could be sent back" to "we discussed" and "send back to me".
+- Turned "if you could let me know who I should speak to" into a direct question.
+
+**What I kept on purpose**
+
+- "I think we can probably have the rollout ready by mid-June, but I need to check with Owen before I can promise it." This hedge marks real uncertainty, so I left its strength as you wrote it.
+- The figures and names: £18,000, first year, Dan's pilot training, Owen, Friday, mid-June.
+- "Thanks for your time on Tuesday", because it thanks her for something she did.
+- All three of your requests. The two questions stay in the email, but they come after the main ask and are clearly separate from it.
+
+**What I need from you**
+
+- Which of the three matters most? I put the order form first because you gave it a deadline. If the SSO approval or the data-sharing contact is as urgent, say so and I will change the order. If it is not, a separate message for the two questions would make the Friday ask stand out more.
+- Does the mid-June date depend on anything Helen can affect, such as the SSO approval or the data-sharing agreement? If so, one sentence saying that would help her see why you are asking.
+- What is the date of that Friday? Naming it would be clearer. I left it as "Friday" because I do not know the date.

@@ -1,0 +1,36 @@
+Subject: Can you return the signed Brightwell order form by Friday?
+
+Hi Helen,
+
+Thanks for your time on Tuesday. Can you send me the signed order form by Friday? The price we discussed is £18,000 for the first year, including the training Dan ran in the pilot.
+
+We can probably have the Brightwell rollout ready by mid-June. I need to check that with Owen on the engineering side before I can promise it.
+
+I have two questions as well. Has your IT team approved the single sign-on setup yet? And who should I speak to about the data-sharing agreement?
+
+Best,
+Sam
+
+**What I changed**
+
+- The subject line now says what you need. "Re: Brightwell rollout" did not.
+- The order form request moved to the top, as the first thing Helen reads after the thanks. It was the fourth item in the paragraph.
+- Cut "I just wanted to reach out and follow up on where we got to", which said nothing.
+- Split the one long paragraph into three short ones, one idea each.
+- Turned "It would be great if the signed order form could be sent back to me" into a direct question.
+- Turned "I was also wondering whether... and if you could let me know who" into two plain questions.
+- Dropped "I think" from "I think we can probably". The "probably" and the Owen check already mark the uncertainty.
+
+**What I kept on purpose**
+
+- "Probably" and the need to check with Owen. You do not know yet, so the email does not promise mid-June.
+- "The price we discussed". You did not say it was agreed, so I did not call it agreed.
+- £18,000, first year, the training, Dan, Owen, mid-June and Friday, unchanged.
+- The thanks for Tuesday, cut to one sentence.
+- Your sign-off.
+
+**What I need from you**
+
+- Which date is "Friday"? Naming the day and date (for example, "Friday 31st") lets Helen check her diary.
+- The email makes three asks: the order form, the SSO approval, and the data-sharing contact. I put the order form first as the one that matters most. Is that right? If the SSO and data-sharing questions can wait, send them in a separate message.
+- Will you tell Helen when Owen confirms the mid-June date? I did not add that, because you did not say it.

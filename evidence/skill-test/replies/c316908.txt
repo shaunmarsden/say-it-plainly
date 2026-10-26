@@ -1,0 +1,9 @@
+Here is a clearer version:
+
+Support tickets rose 12% in the quarter after the 3.2 release, from 2,050 to 2,300. The release may be the cause, but the new onboarding emails also started going out that month, so I can't separate the two. I only looked at the UK queue, not Ireland's. I'd lean towards holding 3.3 until we know more, but that's your call.
+
+What I changed: I cut the hedging phrases ("it should be noted that", "on balance"), used "I can't" and "I'd" in place of the stiffer forms, and joined the two short sentences about the UK queue into one. The numbers and the caveats are all still there. I checked the 12%: 250 more tickets on 2,050 is 12.2%, so it holds.
+
+If you want it shorter still, I'd put the recommendation first and the caveats after it:
+
+I'd hold the 3.3 release until we know more, but that's your call. Support tickets rose 12% in the quarter after 3.2, from 2,050 to 2,300. The new onboarding emails started that same month, so I can't tell which caused it. I only looked at the UK queue, not Ireland's.

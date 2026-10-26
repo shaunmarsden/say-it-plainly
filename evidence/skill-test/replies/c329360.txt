@@ -1,0 +1,34 @@
+Renewal call with Fenwick Logistics, 14th October. Present: Maria Okafor (Fenwick), Tom Reyes (our customer success), Aisha.
+
+**Decided**
+- Stay on the current plan until the new terms have been reviewed. The notes do not say who made the call or who will review the terms.
+
+**Two people gave different figures, and nobody has checked them**
+- Churn on Fenwick's drivers app. Maria thinks it is around 4%. Tom says it was closer to 6% last quarter. Nobody had the dashboard open, so the call did not settle it. The dashboard would settle it. The notes do not say who can open it.
+
+**Still needs checking**
+- Extra seats. Maria seemed keen, in the note-taker's view. She did not commit to a number.
+- Budget sign-off. It sits with Fenwick's finance director. Their name was not given.
+- Deadline for the revised terms. The note-taker thinks Maria wants them before the end of the month. The notes do not record her saying so.
+
+**Actions**
+- Send the revised terms to Fenwick. No owner. No date. The note-taker thinks Maria wants them before the end of the month (see above).
+
+**What I changed**
+- Sorted each line into one place: decided, disagreed, still to check, action.
+- Put the churn disagreement in its own section so neither figure reads as the answer.
+- Wrote "no owner" and "no date" on the action instead of leaving the gap quiet.
+- Added who holds each view: Maria for 4%, Tom for 6%, the note-taker for "keen" and for the deadline.
+
+**What I kept on purpose**
+- "Thinks" for Maria's churn figure and "seemed keen" for the seats. Both are impressions, so they stay as impressions.
+- "I think" on the deadline, now written as the note-taker's view.
+- Both churn figures, with no average and no pick between them.
+- "14th October", the names, and the plan decision's wording.
+
+**What I need from you**
+- Who made the decision to stay on the current plan, and who reviews the new terms?
+- Who is Aisha, and are you the note-taker? I could not tell whose view the "I think" is.
+- Which end of the month does Maria mean, and did she say it or did you infer it?
+- Who can open the churn dashboard, and by when should they check it?
+- Who sends the revised terms, and by when?
