@@ -1,0 +1,41 @@
+Here is a clearer version. I kept every detail, including the things that are unconfirmed, and I did not add anything the notes don't say.
+
+**Support escalation call: Lowmoor Water, 29 October**
+
+**Attendees:** Beatrice and Karim (Lowmoor); Zoe and Piers (our side)
+
+**Decision**
+- We will call again on Monday morning.
+
+**Outage length (disputed)**
+- Beatrice said the outage lasted about two hours.
+- Karim said it was nearer four hours, based on their logs.
+- Zoe is checking our records.
+
+**Cause (unconfirmed)**
+- Piers thinks the cause was the certificate renewal. Engineering has not confirmed this.
+
+**Credit**
+- Beatrice wants a credit.
+- Piers said credits are not his decision.
+- Karim did not comment.
+- The notes don't say who does decide, so that is an open question.
+
+**Risk to the Dover site**
+- Karim asked whether the same thing could happen on the Dover site.
+- Piers did not know.
+
+**SLA review**
+- Parked until the credit is sorted.
+
+**Actions**
+- Zoe: send Lowmoor the incident report. The note-taker thinks she said Friday, but is not sure. Please confirm the date with Zoe.
+- Zoe: check our own figures for the outage length.
+
+**Open items to bring to Monday's call**
+- Agreed outage length (two hours or four)
+- Confirmed cause from engineering
+- Who decides on the credit, and the outcome
+- An answer on Dover
+
+Two things to check before this goes anywhere. First, the Friday deadline is a guess, so confirm it. Second, the notes name no owner for the Dover question or for getting engineering to confirm the cause. If you know who should take those, add them.

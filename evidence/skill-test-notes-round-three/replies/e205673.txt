@@ -1,0 +1,13 @@
+Support escalation call, Lowmoor Water, 29th October. Present: Beatrice and Karim (Lowmoor), Zoe and Piers (ours).
+
+Decision: we will call again on Monday morning.
+
+Length of the outage: Beatrice said it lasted about two hours. Karim said it was nearer four, going by their logs. Zoe is checking ours.
+
+Credit: Beatrice wants one. Piers said credits are not his call. Karim did not comment. The SLA review is parked until the credit is sorted.
+
+Cause: Piers thinks it was the certificate renewal. Engineering has not confirmed it.
+
+Dover site: Karim asked whether the same thing could happen there. Piers did not know.
+
+Incident report: Zoe will send it. I think she said Friday.

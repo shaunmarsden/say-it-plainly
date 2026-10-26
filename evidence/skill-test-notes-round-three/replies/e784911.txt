@@ -1,0 +1,37 @@
+Support escalation call, Lowmoor Water, 29th October.
+Present: Beatrice and Karim (Lowmoor), Zoe and Piers (ours).
+
+**Settled**
+- Decision: we will call again on Monday morning. The notes do not say who made the call, or which Monday.
+- The SLA review is parked until the credit is sorted. The notes do not say who parked it.
+
+**Actions**
+- Zoe will send the incident report. I think she said Friday, but I am not sure, so treat the date as unconfirmed.
+- Zoe is checking our figures for the length of the outage. No date.
+
+**The notes disagree**
+- Length of the outage. Beatrice said about two hours. Karim said nearer four, from Lowmoor's logs. Zoe's check of our logs could settle it. We do not know what Beatrice's two hours came from.
+
+**Still to check**
+- Cause of the outage. Piers thinks it was the certificate renewal. Engineering has not confirmed it. No owner, no date.
+- Whether the same thing could happen on the Dover site. Karim asked and Piers did not know. No owner, no date.
+- The credit. Beatrice wants one. Piers said credits are not his call, and Karim did not comment. Nobody was named as the person who decides. No owner, no date.
+
+**What I changed**
+- Sorted the lines into settled, actions, disagreement and still to check, with each line in one place.
+- Moved the outage length out of Zoe's action and into its own disagreement entry, so both figures and their sources show.
+- Marked every missing owner and date as missing.
+
+**What I kept on purpose**
+- "Piers thinks" and "I think she said Friday", because both are real uncertainty with a name attached.
+- "About two hours" and "nearer four", with Karim's source (their logs). I did not average them or pick one.
+- Your label "Decision" for the Monday call, because you wrote it that way. I added that no one is named as making it.
+- That Karim did not comment on the credit. It is a fact about the call.
+
+**What I need from you**
+- Who decided on the Monday call, and which date is that Monday?
+- Who parked the SLA review, and was that a decision or just where the talk ended?
+- Was it Zoe who said Friday, and Friday of which week?
+- Who at our end decides on the credit?
+- Who will ask engineering to confirm the cause, and who will answer Karim on Dover?
+- Where did Beatrice's two hours come from?

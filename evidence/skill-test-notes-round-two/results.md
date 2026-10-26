@@ -60,6 +60,10 @@ I did not measure whether a reader prefers the sorted version. It may be what so
 
 I have not changed the skill, because the pre-registration says a change would be a new, labelled round. I would not count this result as a verdict on the skill's usefulness. It shows that on these three drafts the skill did not keep notes cleaner than a paragraph, and that it sometimes stated things about the call that the notes did not.
 
+## Round three
+
+I then tightened the notes skill and tested it on three new sets of notes. See the [round three results](../skill-test-notes-round-three/results.md).
+
 ## Files
 
 - `preregistration.md`, `drafts/`, `prompts/`: what I fixed before running.

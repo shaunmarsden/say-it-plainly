@@ -1,0 +1,19 @@
+(The names and figures below are made up.)
+
+Rewrite this to make it clearer.
+
+Support escalation call, Lowmoor Water, 29th October. Present: Beatrice and Karim (Lowmoor), Zoe and Piers (ours).
+
+Beatrice said the outage lasted about two hours. Karim said it was nearer four, from their logs. Zoe is checking ours.
+
+Beatrice wants a credit. Piers said credits are not his call. Karim did not comment.
+
+Piers thinks the cause was the certificate renewal, but engineering has not confirmed it.
+
+Zoe will send the incident report. I think she said Friday.
+
+Karim asked whether the same thing could happen on the Dover site. Piers did not know.
+
+The SLA review is parked until the credit is sorted.
+
+Decision: we will call again on Monday morning.

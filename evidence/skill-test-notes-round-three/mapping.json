@@ -1,0 +1,122 @@
+{
+ "e910961": {
+  "draft": "escalation",
+  "arm": "bare",
+  "run": 1
+ },
+ "e356265": {
+  "draft": "workshop",
+  "arm": "bare",
+  "run": 1
+ },
+ "e188742": {
+  "draft": "escalation",
+  "arm": "skill1",
+  "run": 2
+ },
+ "e427795": {
+  "draft": "pipeline",
+  "arm": "bare",
+  "run": 1
+ },
+ "e769857": {
+  "draft": "escalation",
+  "arm": "skill2",
+  "run": 2
+ },
+ "e393650": {
+  "draft": "pipeline",
+  "arm": "skill1",
+  "run": 1
+ },
+ "e304869": {
+  "draft": "pipeline",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "e561081": {
+  "draft": "workshop",
+  "arm": "paragraph",
+  "run": 2
+ },
+ "e515460": {
+  "draft": "pipeline",
+  "arm": "skill1",
+  "run": 2
+ },
+ "e311870": {
+  "draft": "workshop",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "e308430": {
+  "draft": "pipeline",
+  "arm": "skill2",
+  "run": 2
+ },
+ "e648562": {
+  "draft": "workshop",
+  "arm": "skill1",
+  "run": 1
+ },
+ "e630552": {
+  "draft": "workshop",
+  "arm": "bare",
+  "run": 2
+ },
+ "e227884": {
+  "draft": "workshop",
+  "arm": "skill2",
+  "run": 1
+ },
+ "e988511": {
+  "draft": "escalation",
+  "arm": "paragraph",
+  "run": 2
+ },
+ "e205673": {
+  "draft": "escalation",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "e295497": {
+  "draft": "workshop",
+  "arm": "skill1",
+  "run": 2
+ },
+ "e422618": {
+  "draft": "pipeline",
+  "arm": "bare",
+  "run": 2
+ },
+ "e206769": {
+  "draft": "escalation",
+  "arm": "skill2",
+  "run": 1
+ },
+ "e324297": {
+  "draft": "pipeline",
+  "arm": "paragraph",
+  "run": 2
+ },
+ "e784911": {
+  "draft": "escalation",
+  "arm": "skill1",
+  "run": 1
+ },
+ "e610550": {
+  "draft": "workshop",
+  "arm": "skill2",
+  "run": 2
+ },
+ "e406034": {
+  "draft": "pipeline",
+  "arm": "skill2",
+  "run": 1
+ },
+ "e538167": {
+  "draft": "escalation",
+  "arm": "bare",
+  "run": 2
+ }
+}

@@ -1,0 +1,38 @@
+Support escalation call, Lowmoor Water, 29th October.
+Present: Beatrice and Karim (Lowmoor), Zoe and Piers (our side).
+
+**Settled**
+- Decision: we will call again on Monday morning. The notes do not say who made the decision, who will make the call, or which Monday.
+- The SLA review is parked until the credit is sorted. The notes do not say who parked it.
+
+**Still needs checking**
+- Cause of the outage: Piers thinks it was the certificate renewal. Engineering has not confirmed it.
+- The credit: Beatrice wants one. Piers said credits are not his call. Karim did not comment. The notes do not say whose call it is.
+- Dover: Karim asked whether the same thing could happen on the Dover site. Piers did not know.
+
+**Where the notes disagree**
+- Length of the outage: Beatrice said about two hours. Karim said nearer four, from their logs. Zoe is checking ours, so her check could help settle it.
+
+**Actions**
+- Zoe: checking our figure for the length of the outage. The notes do not give a date.
+- Zoe: send the incident report. I think she said Friday, but I am not sure.
+
+**What I changed**
+- Sorted the lines under settled, still needs checking, and disagree.
+- Put the owner and the date, or the missing owner or date, against each action.
+- Added "the notes do not say" where the notes leave out who decided, who owns something, or when.
+
+**What I kept on purpose**
+- "Piers thinks" and "engineering has not confirmed it". The cause stays an impression.
+- "I think she said Friday". The date stays uncertain.
+- "Karim did not comment" and "Piers did not know", as written. I did not turn them into agreement or "no one knew".
+- "Beatrice wants a credit" stays a request. Nothing says it was agreed.
+- "Decision:" for the Monday call, because your notes use that word. "Parked" for the SLA review, because your notes say parked, not decided.
+- "The call" on Monday, "the incident report", "the SLA review" and "the credit", in your words.
+
+**What I need from you**
+- Who made the decision to call again, who is making the call, and which date is Monday?
+- Who decides on the credit?
+- Did Zoe say Friday, and which Friday?
+- Who parked the SLA review?
+- When you wrote "Zoe is checking ours", did you mean our logs? I kept your wording.

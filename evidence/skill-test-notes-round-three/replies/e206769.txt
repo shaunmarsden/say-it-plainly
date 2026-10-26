@@ -1,0 +1,36 @@
+I rewrote the notes below.
+
+**Support escalation call, Lowmoor Water, 29th October**
+Present: Beatrice and Karim (Lowmoor), Zoe and Piers (ours).
+
+**Settled**
+- Decision: we will call again on Monday morning. The notes do not say who made the call or who rings whom.
+- The SLA review is parked until the credit is sorted. The notes do not say who parked it.
+
+**Actions**
+- Zoe will send the incident report. I think she said Friday. I am not sure.
+
+**Still to check**
+- Cause: Piers thinks it was the certificate renewal. Engineering has not confirmed it.
+- Credit: Beatrice wants one. Piers said credits are not his call. Karim did not comment. The notes do not say who decides.
+- Karim asked whether the same thing could happen on the Dover site. Piers did not know. The notes do not name an owner or give a date.
+
+**Where the notes disagree**
+- Length of the outage: Beatrice said about two hours. Karim said nearer four, from their logs. Zoe is checking ours. The notes do not give a date for that check.
+
+**What I changed**
+- Sorted the lines into settled, actions, still to check and disagreement, and put each line in one place.
+- Dropped the "Decision:" label from the SLA line, because the notes only say it is parked.
+- Wrote "the notes do not say" for each missing owner and date.
+
+**What I kept on purpose**
+- "I think she said Friday", because it is real uncertainty, and I left it in the first person.
+- "Piers thinks" and "Engineering has not confirmed it", so the cause stays an impression.
+- "Karim did not comment" and "Piers did not know", as the notes have them.
+- "Nearer four, from their logs" and "about two hours", as they were said, with no firmer figure.
+
+**What I need from you**
+- Does "ours" mean our logs?
+- Who made the Monday decision, and who is calling whom?
+- Which Friday did Zoe mean, if you can recall?
+- Who owns the credit decision, and who parked the SLA review?

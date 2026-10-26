@@ -1,0 +1,24 @@
+Here is a clearer version. I changed the layout and wording only. I did not settle any disagreement or fill any gap, because the notes do not say how those were resolved.
+
+**Pipeline review, 28 October**
+Present: Gwen, Idris, Omar, me.
+
+**Open disagreements (need a decision)**
+- Harlow renewal: Gwen says it is safe. Idris says the buyer has gone quiet. Both views stand.
+- Kestrel: Idris wants to drop it. Gwen does not. No decision was made.
+- Forecast of 640k: Gwen thinks it includes Kestrel. Idris thinks it does not. Nobody has checked. This matters, because the number changes by the value of Kestrel if we drop it.
+
+**Unconfirmed**
+- Aldwick discount of 12%: Omar said it was approved. I have not seen the approval, so treat it as unapproved until I do.
+
+**Actions**
+- Omar: review the Harlow contract terms. No date was set.
+- Aldwick paperwork: needs chasing, but no one has been given the job. Someone should take it.
+- Deal review: next Thursday.
+
+Three things I would fix before you send this:
+1. Name an owner for the Aldwick paperwork.
+2. Give Omar a date for Harlow. "When he can" is not a date.
+3. Replace "next Thursday" with the actual date. The notes are dated 28 October, and "next Thursday" could mean two different days.
+
+If you want, I can also write a shorter version, with just the decisions and actions, to send to the group.
