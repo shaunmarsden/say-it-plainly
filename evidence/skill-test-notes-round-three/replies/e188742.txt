@@ -1,0 +1,38 @@
+Support escalation call, Lowmoor Water, 29th October. Present: Beatrice and Karim (Lowmoor), Zoe and Piers (ours).
+
+Settled
+- Decision: we will call again on Monday morning. The notes do not say who made the call, who rings whom, or which Monday.
+- The SLA review is parked until the credit is sorted. The notes do not say who parked it.
+
+Action
+- Zoe will send the incident report. Date: I think she said Friday, but I am not sure. No other date.
+- Zoe is also checking our side of the outage length. No date.
+- Owner of the credit decision: no owner. No date.
+
+Still to check
+- Cause of the outage: Piers thinks it was the certificate renewal. Engineering has not confirmed it.
+- Whether the same thing could happen on the Dover site: Karim asked and Piers did not know. No one has been asked to find out.
+
+Where the notes disagree
+- Length of the outage: Beatrice said about two hours. Karim said nearer four, from Lowmoor's logs. Zoe is checking our logs, so she can settle it.
+
+Open, not decided
+- Credit: Beatrice wants one. Piers said credits are not his call. Karim did not comment. Nobody decided anything.
+
+What I changed
+- Sorted the lines into settled, action, still to check, disagreement and open, so no impression sits under "settled".
+- Gave every action an owner and a date, or wrote "no owner" or "no date".
+- Put the two outage lengths side by side with the name of who said each, and who could settle it.
+
+What I kept on purpose
+- "Piers thinks" and "I think she said Friday", because both mark real uncertainty and I kept the name with each.
+- "about two hours" and "nearer four", as they were said. No one gave a figure from a report.
+- "Karim did not comment" and "Piers did not know", as they were.
+
+What I need from you
+- Who made the decision to call again on Monday, who is calling whom, and which date is that Monday?
+- Which Friday did Zoe mean, and are you sure it was Friday?
+- Who decides the credit, if not Piers?
+- Who parked the SLA review?
+- Who will find out about the Dover site, and by when?
+- Is there a date for Zoe to finish checking our logs?

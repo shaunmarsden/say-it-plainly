@@ -1,0 +1,36 @@
+Here is a clearer version. I kept every uncertainty as it was in your notes, so nothing reads as more settled than it is.
+
+**Support escalation call: Lowmoor Water, 29 October**
+
+**Attendees:** Beatrice and Karim (Lowmoor); Zoe and Piers (us).
+
+**Decision**
+- We will call Lowmoor again on Monday morning.
+
+**Outage length (disputed)**
+- Beatrice said the outage lasted about two hours.
+- Karim said it was nearer four, going by their logs.
+- Zoe is checking our records.
+
+**Cause (unconfirmed)**
+- Piers thinks the cause was the certificate renewal. Engineering has not confirmed this.
+
+**Credit**
+- Beatrice wants a credit.
+- Piers said credits are not his decision. Karim did not comment.
+- The SLA review is parked until the credit is sorted.
+
+**Dover site**
+- Karim asked whether the same thing could happen on the Dover site. Piers did not know.
+
+**Actions**
+- Zoe: send Lowmoor the incident report. I think she said Friday, but I'm not certain, so please confirm with her.
+- Zoe: check our records for the outage length.
+
+**Still open**
+- How long the outage really lasted (two hours or four).
+- The cause, pending engineering.
+- Who decides on the credit. Piers said it is not him, and nobody named who it is.
+- Whether the Dover site is at risk.
+
+Changes I made: I moved the decision to the top, grouped the notes by topic, and turned the follow-ups into a short action list. I added the open-questions list, and I added "check our records" as an action for Zoe, which your notes only implied. I did not add anything else. Two gaps are worth filling before the call: the owner of the credit decision, and the date for the incident report.

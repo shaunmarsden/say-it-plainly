@@ -1,0 +1,37 @@
+Pipeline review, 28th October. Present: Gwen, Idris, Omar, me.
+
+Decided
+- Nothing. The notes record no decision, including on Kestrel.
+
+Disagreements (not settled)
+- Harlow renewal: Gwen said it is safe. Idris said the buyer has gone quiet. Whoever last spoke to the buyer could settle it. I do not know who that is.
+- Kestrel: we spoke about dropping it. Idris wants to drop it. Gwen does not.
+- Forecast is 640k, with no source or date given. Gwen thinks it includes Kestrel. Idris thinks it does not. Whoever built the forecast could settle it.
+
+Still to check
+- Aldwick discount of 12%: Omar said it was approved. I have not seen the approval, so treat it as unconfirmed.
+
+Actions
+- Omar: look at the Harlow contract terms. Date: none, he will do it "when he can".
+- Chase the Aldwick paperwork. Owner: none. Date: none.
+
+Dates
+- The deal review is next Thursday. The exact date is not in the notes.
+
+What I changed
+- Sorted the lines into decided, disagreements, still to check, actions and dates, so each line sits in one place.
+- Gave the two actions an owner and date, or wrote "none" where there is not one.
+- Wrote out the Kestrel and forecast splits as two named views each, with no winner.
+
+What I kept on purpose
+- "Gwen said" and "Idris said" on Harlow, and "Gwen thinks" and "Idris thinks" on the forecast. These are views, not facts.
+- "Omar said was approved" and "I have not seen the approval".
+- "When he can", in Omar's words, because it shows there is no date.
+- 640k and 12% exactly as written.
+- "Next Thursday", as written.
+
+What I need from you
+- Who could settle the Harlow question: who last spoke to the buyer?
+- Which report or person gave the 640k figure, and what is its date?
+- What is the date of "next Thursday"?
+- Did anyone agree to chase the Aldwick paperwork, or does it still have no owner?
