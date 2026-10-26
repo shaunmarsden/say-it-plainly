@@ -1,0 +1,22 @@
+We moved the Leeds team to the new booking tool on the 3rd. Most of the team were fine with it. Two said it was slower than before, and one has not logged in yet.
+
+Bookings are down about 8% on the same week last year. That week had a bank holiday, so I would not read much into the drop.
+
+Rachel is looking at whether to keep the old tool running alongside until the end of the month. There is no decision yet.
+
+**What I changed**
+- Split the second sentence in two, so the "fine" and the "slower" points each stand alone.
+- Split the bookings sentence, so the figure and the bank holiday caveat are separate.
+- Added "the drop" after "read much into", so "it" no longer has to point back across a clause.
+- Put the text into three short paragraphs: the move, the bookings figure, the open decision.
+
+**What I kept on purpose**
+- "I would not read much into it": a real hedge about the 8% figure, so it stays.
+- "About 8%", "the 3rd", "two", "one", and "until the end of the month": every figure and date is as you wrote it.
+- "There is no decision yet": it is plain and it matches your voice.
+- The order. The text has no single point to lead with, because it is an update with several parts, so I left it in your order.
+
+**What I need from you**
+- Which week had the bank holiday: the one this year, last year's, or both? The text does not say, and the answer decides whether the 8% drop is worth discounting.
+- Is the 8% drop since the move on the 3rd, or for a different period? If it covers only the days since the move, say so, because a reader may link the drop to the new tool.
+- Is the decision Rachel's to make, or does someone else sign it off? "No decision yet" does not say who will decide.

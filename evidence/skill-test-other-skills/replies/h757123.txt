@@ -1,0 +1,26 @@
+Here is a clearer version:
+
+Subject: Your order 5521 is delayed
+
+Hi Mr Okonkwo,
+
+Your parcel has been delayed at our depot. This was our fault: we had a staffing problem.
+
+We think it will reach you by the 12th, but the carrier has not confirmed that date.
+
+If it has not arrived by the 15th, we will refund the £6.50 delivery charge. We will not refund the cost of the item.
+
+Could you tell me by Friday whether your delivery address has changed since you ordered?
+
+Kind regards,
+Dana
+Customer care
+
+What I changed:
+- The subject now says what the email is about.
+- I cut the opening line ("I just wanted to reach out"), so the delay comes first.
+- I split it into short paragraphs: the delay, the date, the refund, then the question. Your question is now on its own, so it is hard to miss.
+- I dropped "Unfortunately" and the passive "was down to". Saying "this was our fault" is plainer and clearer about who is responsible.
+- I kept every fact as you had it: the 12th is an estimate only, the refund applies only to the delivery charge, and the deadline for the address is Friday.
+
+One thing to check: "Friday" is ambiguous if the email is read late in the week. Adding the date, for example "by Friday 9th", would make it clearer. I did not add one because I don't know the date.

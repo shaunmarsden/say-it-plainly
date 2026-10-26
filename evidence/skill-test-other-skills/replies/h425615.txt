@@ -1,0 +1,23 @@
+Here's a clearer version:
+
+---
+
+I spent three weeks testing whether AI can draft our monthly client reports. It can, with a catch.
+
+It got the structure right in all 11 reports. But in 2 of them it put in a wrong figure, and both times the number came from a different client's file. I don't know why it happened. It could be my prompt or it could be the tool.
+
+For now, a person checks every number before a report goes out.
+
+If you use AI for client reports, how do you guard against this?
+
+---
+
+What I changed:
+
+- "Honest answer: sometimes" is gone. The details already say what happened, so the vague line wasn't doing anything. The opening now says "It can, with a catch", which sets up the rest.
+- "Structure right every time" now says "in all 11 reports", so the 2 errors are clearly out of 11.
+- "A number that belonged to a different client's file" is now "the number came from a different client's file". That detail matters most, because it is a data-mixing error and not a typo. I kept it.
+- "Curious what others do about this? Thoughts welcome!" was vague. The new last line asks one specific question that people can answer.
+- I dropped the hashtags. If you want them, put them back, but #FutureOfWork adds nothing here.
+
+One thing to check: "a person checks every number" is accurate to your original. If the checker compares figures against the client's own file, say so in a few words. It would show readers what the check involves.

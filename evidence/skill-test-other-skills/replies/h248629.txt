@@ -1,0 +1,22 @@
+Here is a clearer version.
+
+**Subject:** Your order 5521 is delayed
+
+Hi Mr Okonkwo,
+
+Your order 5521 has been delayed. The parcel was held up at the depot because of a staffing problem on our side.
+
+We think it should reach you by the 12th, but the carrier has not confirmed that. If it has not arrived by the 15th, we will refund the £6.50 delivery charge. The refund covers the delivery charge only, not the cost of the item.
+
+Could you let me know by Friday if your delivery address has changed since you ordered?
+
+Kind regards,
+Dana (customer care)
+
+What I changed:
+- The subject now says what the email is about.
+- The delay comes first. I cut "I just wanted to reach out about your order" because it delayed the news.
+- The refund terms now sit in their own sentences, so the "not the item" limit is hard to miss.
+- The request for the address check is now a separate paragraph, so it doesn't get lost.
+
+I kept every fact as it was: the dates, the amount, the cause and the Friday deadline. I did not add an apology, since you didn't write one. If you want one, "I'm sorry for the delay" after the first sentence would fit.

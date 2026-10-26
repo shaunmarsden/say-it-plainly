@@ -1,0 +1,19 @@
+Here is a clearer version:
+
+---
+
+**Decision needed by 8 November: extend the triage rota to weekdays at all sites.**
+
+The pilot cut average first-response time from 41 to 29 minutes over four weeks. It ran on weekdays only, so we have no weekend data.
+
+The team lead thinks most of the gain comes from the extra person on Mondays. We have not tested that.
+
+I recommend extending the rota to weekdays at all sites, and holding off on weekends until we have data.
+
+It will cost roughly £2,400 a month per site. That figure is an estimate from finance, not a quote.
+
+Please let me know your decision by 8 November.
+
+---
+
+What I changed: I put the request and the deadline first, so the reader knows what is being asked before the detail. I split the long first sentence into short ones, and kept every number and caveat from the original: the weekday-only pilot, the untested Monday theory, and the fact that the cost is an estimate.

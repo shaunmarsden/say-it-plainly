@@ -1,0 +1,27 @@
+Here is the rewrite.
+
+I recommend extending the triage rota to weekdays at all sites, and holding off on weekends until we have data. Over a four-week pilot, the rota cut average first-response time from 41 to 29 minutes. The pilot did not cover weekends, so the result is for weekdays only.
+
+The team lead thinks most of the gain comes from the extra person on Mondays, but we have not tested that.
+
+The cost is roughly £2,400 a month per site. That is an estimate from finance, not a quote.
+
+I need a decision from you by 8 November.
+
+**What I changed**
+- Moved the recommendation to the first sentence. The finding follows it, and the cost and deadline come last.
+- Split the long first sentence into three, so the weekday limit and its cause each have their own sentence.
+- Gave the Monday theory, the cost and the deadline a paragraph each, so the guesses and estimates are easy to tell from the measured result.
+- Cut "but" and "only", and wrote the weekday limit as a plain statement.
+
+**What I kept on purpose**
+- "Thinks" and "we have not tested that", because they mark real uncertainty about the Monday effect.
+- "Roughly" and "an estimate from finance, not a quote", because the cost is not firm.
+- Every figure, the four-week period and the 8 November deadline.
+- Your first-person voice ("I recommend", "I need").
+
+**What I need from you**
+- Where did the 41 and 29 minute figures come from, and what dates do they cover? A reader cannot check them without a source.
+- Which sites ran the pilot? "At all sites" suggests some did not, and the reader may want to know.
+- Who at finance gave the cost estimate, and when? A named source makes the estimate easier to trust.
+- What exactly should the reader approve: the extension, the spend, or both?

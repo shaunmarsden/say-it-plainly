@@ -1,0 +1,23 @@
+I spent three weeks testing whether AI can draft our monthly client reports. The answer is sometimes.
+
+It got the structure right every time. It got a figure wrong in 2 of the 11 reports. Both times, the number belonged to a different client's file. I don't know why. It may be the prompt, or it may be the tool.
+
+So a human now checks every number before anything goes out.
+
+**What I changed**
+- Cut "Honest answer:". It's a stock opener, and "sometimes" works without it.
+- Turned the fragment "both times a number that belonged to a different client's file" into a full sentence.
+- Changed "Maybe the prompt, maybe the tool" to "It may be the prompt, or it may be the tool".
+- Cut "Curious what others do about this? Thoughts welcome!". It asks for comments, which is engagement bait, and the post ends where your point ends.
+- Cut the hashtags. They don't help a reader who has already found the post. Put them back if you want them for reach.
+
+**What I kept on purpose**
+- Your figures: three weeks, 2 of the 11 reports, and the cross-client mix-up.
+- "I don't know why". It marks real uncertainty, so I kept it.
+- "Sometimes" as the answer. The post doesn't claim more than that.
+- Your short, plain sentences.
+
+**What I need from you**
+- Who checks the numbers now: you, a named role, or the whole team? "A human" is vague, and I didn't want to guess.
+- Did you test one tool or several? If it was one, saying so would show readers how far the 2 of 11 figure applies.
+- Do you want a closing line about what you'd try next, such as changing the prompt or the tool? I left it out because the post doesn't say you plan to.

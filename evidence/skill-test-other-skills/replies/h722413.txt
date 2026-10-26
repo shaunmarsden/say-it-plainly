@@ -1,0 +1,27 @@
+I recommend extending the new triage rota to weekdays at all sites, and holding off on weekends until we have data. Over a four-week pilot, the rota cut average first-response time from 41 to 29 minutes. The pilot did not cover weekends, so the result is for weekdays only.
+
+The team lead thinks most of the gain comes from the extra person on Mondays. We have not tested that.
+
+The cost is roughly £2,400 a month per site. That is an estimate from finance, not a quote.
+
+I need a decision from you by 8 November.
+
+What I changed
+- Moved the recommendation to the first sentence, so the opening paragraph is enough to act on.
+- Put the measured result and the team lead's opinion in separate paragraphs, so a reader can tell which is which.
+- Split the long first sentence into three shorter ones. The weekday limit now follows the result instead of hanging off it.
+- Cut "but only on weekdays, because" and said the same thing in two plain sentences.
+
+What I kept on purpose
+- "The team lead thinks" and "we have not tested that". Both mark real uncertainty.
+- "Roughly" and "an estimate from finance, not a quote". The cost is not firm and the text says so.
+- All the figures: 41 to 29 minutes, four weeks, £2,400 a month per site, 8 November.
+- "Holding off on weekends until we have data". It is your position, so I left it as you put it.
+
+What I need from you
+- Where do the 41 and 29 minute figures come from, and which weeks do they cover? A report should name the source of each figure.
+- Is the 41 minute baseline from before the pilot, or from a comparison group during it?
+- Which sites ran the pilot, and are they typical of the others?
+- Is "all sites" a total you can give? If the monthly cost across all sites is known, it would help the reader to see it.
+- Which decision do you want, exactly: approval to extend the rota to weekdays at all sites? If there is a second decision, such as a later weekend pilot, say which comes first.
+- Is 8 November the date the money has to be committed, or the date you want an answer? If a reason sits behind it, add it.

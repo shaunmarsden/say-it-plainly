@@ -1,0 +1,27 @@
+I spent three weeks testing whether AI can draft our monthly client reports. The answer is sometimes.
+
+It got the structure right every time. In 2 of the 11 reports it got a figure wrong, and both times the number belonged to a different client's file. I don't know why. Maybe the prompt, maybe the tool.
+
+So now a human checks every number before anything goes out.
+
+**What I changed**
+
+- Cut "Honest answer:". The answer is "sometimes" whether or not it is honest, and the label does no work.
+- Joined "Honest answer: sometimes." to the opening line, so the first line and its answer sit together.
+- Split "a figure wrong in 2 of the 11 reports, both times a number that belonged to..." into a sentence that reads in one pass. The figures are the same.
+- Removed the last line, "Curious what others do about this? Thoughts welcome!", because it asks for comments.
+- Removed the two hashtags, because they do not help a reader of the post.
+
+**What I kept on purpose**
+
+- "Sometimes", the 2 of 11, "every time", and "a number that belonged to a different client's file". None of the claims is stronger or weaker than yours.
+- "I don't know why. Maybe the prompt, maybe the tool." That is real uncertainty, and the post is more honest with it in.
+- "So now a human checks every number", which already states the cause and the result.
+- Your plain, short sentences.
+
+**What I need from you**
+
+- Do you want the hashtags back? If so, which one would help someone find the post?
+- Is "a human" you, a named colleague, or a role? "I check every number" or "our analyst checks every number" would say who did it, but I did not want to guess.
+- Was it one AI tool or several? If one, naming it would make the finding checkable.
+- Does "wrong figure" mean a number from another client's file in both cases and nothing else went wrong in the other 9? I kept your wording as it was, so tell me if there is anything to add.

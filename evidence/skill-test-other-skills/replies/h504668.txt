@@ -1,0 +1,11 @@
+Can AI draft our monthly client reports? Sometimes.
+
+I spent three weeks testing it. The AI got the structure right every time. It got a figure wrong in 2 of the 11 reports. Both times, the wrong number belonged to a different client's file. I don't know why. It could be the prompt or the tool.
+
+So a human now checks every number before anything goes out.
+
+What do you do about this?
+
+---
+
+What I changed: I led with the answer, shortened the sentences, and cut "Thoughts welcome!" and the hashtags as filler. Every figure and hedge is as you had it ("sometimes", "2 of the 11", "I don't know why", "maybe the prompt, maybe the tool"). I added no facts, names or owners. You didn't say who the human checker is, so the draft doesn't either.
