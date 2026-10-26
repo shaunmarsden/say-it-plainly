@@ -1,0 +1,23 @@
+I lean towards holding the 3.3 release until we know more, but that is your call. Support tickets rose 12% in the quarter after the 3.2 release, from 2,050 to 2,300. This may be related to the release, but the new onboarding emails also started going out in the same month, so I cannot separate the two. I looked at the UK queue only. I did not look at the Ireland queue.
+
+What I changed
+
+- Moved the recommendation and the decision to the start.
+- Cut "Just to flag a finding" and "it should be noted that". They said nothing.
+- Turned "The analysis was done on the UK queue only" into "I looked at the UK queue only", so a person did it.
+- Merged the two caveat sentences about the emails and the release into one. They now say how they connect ("but ... so").
+
+What I kept on purpose
+
+- Both figures and the 12%. They check out: 2,050 to 2,300 is a rise of about 12%.
+- "May be related". It marks real uncertainty, so I did not strengthen it to "caused by".
+- "I cannot separate the two" and the note about the Ireland queue. Both say what you could not check.
+- "That is your call". It keeps the decision with the reader, in your own voice.
+- "Lean towards". You were not sure, and the text still shows that.
+
+What I need from you
+
+- Which month did the onboarding emails start, and is it the month 3.2 shipped? "The same month" is ambiguous, so I left the wording as you had it.
+- Where do the ticket numbers come from (which system), and what date did you pull them? The report should name the source and date.
+- What is the 2,050 compared against? I assumed the quarter before 3.2, but you did not say.
+- When do you need the decision on 3.3? A date would help the reader.

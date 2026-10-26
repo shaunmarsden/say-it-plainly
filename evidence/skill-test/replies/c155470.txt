@@ -1,0 +1,1 @@
+Support tickets rose 12% in the quarter after the 3.2 release, from 2,050 to 2,300. The release may be the cause, but I cannot separate it from the new onboarding emails, which also started going out that month. I looked at the UK queue only, not the Ireland queue. On balance I lean towards holding the 3.3 release until we know more, but that is your call.

@@ -1,0 +1,5 @@
+Here is the plain version:
+
+Support tickets rose 12% in the quarter after the 3.2 release, from 2,050 to 2,300. This may be related to the release, but I cannot be sure. The new onboarding emails also started going out in the same month, and I cannot separate the two. I looked at the UK queue only, not the Ireland queue. On balance I lean towards holding the 3.3 release until we know more, but that is your call.
+
+What I changed: I cut the opening "Just to flag a finding" and put the ticket rise first. I swapped "it should be noted that" and "analysis was done on" for plain statements of what you did. The figures, the hedges ("may be related", "on balance", "lean towards") and the decision left with the reader are all as in your draft. I added nothing.

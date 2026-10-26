@@ -1,0 +1,25 @@
+Here is a clearer version. I kept every uncertainty from your notes as it was and did not fill any gaps.
+
+Fenwick Logistics renewal call, 14 October
+
+Attendees: Maria Okafor (Fenwick), Tom Reyes (our customer success), Aisha.
+
+Decision
+- Fenwick stays on the current plan until the new terms have been reviewed.
+
+Open points
+- Churn on the drivers app: not settled. Maria thinks it is about 4%. Tom said it was closer to 6% last quarter. Nobody had the dashboard open, so neither figure was checked.
+- Extra seats: Maria seemed keen but did not commit to a number.
+- Budget sign-off: it sits with Fenwick's finance director. We were not given their name.
+
+Actions
+- Send revised terms to Fenwick. Owner: not agreed on the call, so someone needs to claim this.
+- Deadline: Maria wants the terms before the end of the month. I'm not certain of this, so please confirm it with her.
+
+Things to follow up
+1. Check the churn figure on the dashboard and tell Maria which number is right.
+2. Agree who sends the revised terms.
+3. Ask Maria for the finance director's name.
+4. Ask Maria how many extra seats she wants.
+
+What I changed: I put the decision first, split what is unresolved from what needs doing, and turned the gaps into follow-up steps. Two things I could not tell from your notes: whether the 4% and 6% figures cover the same period (Tom said "last quarter", Maria gave no period), and what Aisha's role is. Add those if you know them.
