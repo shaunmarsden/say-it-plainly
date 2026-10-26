@@ -1,0 +1,42 @@
+[
+  {
+    "name": "plain-writing",
+    "title": "Plain Writing",
+    "description": "Review or rewrite any piece of writing so it says what it means, in plain words, without claiming more than the writer knows. Use for general prose when no more specific skill fits.",
+    "intro": "This skill reviews or rewrites a piece of writing so the person who reads it gets what they need, quickly, and is not told more than the writer knows.",
+    "use_case": null,
+    "interview": false
+  },
+  {
+    "name": "plain-email",
+    "title": "Plain Email",
+    "description": "Review or rewrite an email or chat message so the reader knows what you want within two lines. Use for emails, replies and short messages.",
+    "intro": "This skill reviews or rewrites an email or short message so the reader knows what is wanted from them, and by when, within the first two lines.",
+    "use_case": "use-cases/email.md",
+    "interview": false
+  },
+  {
+    "name": "plain-notes",
+    "title": "Plain Notes",
+    "description": "Review or rewrite meeting or call notes so each line shows who said it and how far it can be trusted. Use for notes that someone else will act on.",
+    "intro": "This skill reviews or rewrites meeting or call notes so that each line shows who said it and how far it can be trusted. It never adds a detail nobody said.",
+    "use_case": "use-cases/notes.md",
+    "interview": false
+  },
+  {
+    "name": "plain-report",
+    "title": "Plain Report",
+    "description": "Review, rewrite or interview towards a report or proposal that leads with the finding and the decision it needs. Use for reports, proposals and summaries for decision makers.",
+    "intro": "This skill reviews or rewrites a report or proposal so the first paragraph is enough to act on. It can also interview the writer first, if there is no draft yet.",
+    "use_case": "use-cases/report.md",
+    "interview": true
+  },
+  {
+    "name": "plain-post",
+    "title": "Plain Post",
+    "description": "Review, rewrite or interview towards a public post or web page that earns the reader's attention without hype or engagement bait. Use for posts, articles and web copy.",
+    "intro": "This skill reviews or rewrites a public post or web page so the first line earns the second, and the piece says something only the writer could say. It can also interview the writer first.",
+    "use_case": "use-cases/post.md",
+    "interview": true
+  }
+]

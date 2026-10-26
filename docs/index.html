@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Say It Plainly: plain writing, five ways</title>
+<meta name="description" content="Five skills for an AI tool that review or rewrite your writing in plain words, and a private checker that runs in your browser and sends nothing anywhere.">
+<style>
+  :root {
+    --bg: #faf9f7;
+    --panel: #ffffff;
+    --border: #e5e1da;
+    --ink: #2a2620;
+    --ink-soft: #6b655a;
+    --accent: #b5541f;
+    --mark: #fbe9a8;
+    --note-bg: #f6f3ee;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+  }
+  a { color: var(--accent); }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 0 20px; }
+  header { padding: 48px 0 8px; }
+  .kicker { font-size: 13px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-soft); margin-bottom: 10px; }
+  h1 { font-size: 36px; line-height: 1.15; margin: 0 0 14px; }
+  .lead { font-size: 18px; color: var(--ink-soft); max-width: 640px; margin: 0 0 10px; }
+  h2 { font-size: 22px; margin: 44px 0 12px; }
+  section p, section li { max-width: 680px; }
+  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+  .controls { display: grid; gap: 14px; margin-bottom: 14px; }
+  label { display: block; font-weight: 600; font-size: 15px; margin-bottom: 4px; }
+  select, textarea {
+    width: 100%;
+    font: inherit;
+    color: var(--ink);
+    background: var(--panel);
+    border: 1px solid #b9b2a5;
+    border-radius: 8px;
+    padding: 10px 12px;
+  }
+  textarea { min-height: 190px; resize: vertical; line-height: 1.5; }
+  .check { display: flex; gap: 10px; align-items: flex-start; font-weight: 400; }
+  .check input { margin-top: 5px; }
+  .hint { font-size: 14px; color: var(--ink-soft); margin: 6px 0 0; }
+  button {
+    font: inherit;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 10px 16px;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--ink);
+  }
+  button.primary { background: var(--accent); border-color: var(--accent); color: #ffffff; }
+  button, select { min-height: 44px; }
+  tbody th { text-transform: none; letter-spacing: 0; font-size: 16px; color: inherit; }
+  :focus-visible { outline: 3px solid #1a5fb4; outline-offset: 2px; }
+  #results { margin-top: 22px; }
+  .summary { font-weight: 700; margin: 0 0 6px; }
+  .stats { color: var(--ink-soft); font-size: 14.5px; margin: 0 0 14px; }
+  .marked {
+    white-space: pre-wrap;
+    background: var(--note-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px;
+    margin: 0 0 16px;
+    overflow-wrap: anywhere;
+  }
+  mark { background: var(--mark); color: var(--ink); border-bottom: 2px solid #c79a00; padding: 0 1px; }
+  ol.flags { padding-left: 22px; margin: 0; }
+  ol.flags li { margin-bottom: 10px; }
+  .flag-label { font-weight: 700; }
+  .flag-quote { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; background: var(--note-bg); padding: 1px 5px; border-radius: 4px; overflow-wrap: anywhere; }
+  .flag-message { display: block; color: var(--ink-soft); font-size: 15px; }
+  ul.notes { padding-left: 20px; margin: 0 0 14px; }
+  .private { font-size: 14px; color: var(--ink-soft); margin: 14px 0 0; }
+  table { border-collapse: collapse; width: 100%; font-size: 15px; }
+  th, td { text-align: left; padding: 10px 10px 10px 0; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--ink-soft); }
+  code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13.5px; background: var(--note-bg); padding: 2px 5px; border-radius: 4px; overflow-wrap: anywhere; }
+  .rules { padding-left: 22px; }
+  .rules li { margin-bottom: 6px; }
+  footer { border-top: 1px solid var(--border); margin-top: 48px; padding: 24px 0 60px; color: var(--ink-soft); font-size: 14.5px; }
+  @media (max-width: 640px) {
+    h1 { font-size: 30px; }
+    table, tbody, tr, th, td { display: block; }
+    thead { position: absolute; left: -9999px; }
+    tr { padding: 10px 0; border-bottom: 1px solid var(--border); }
+    th, td { border: 0; padding: 2px 0; }
+    td:nth-child(3) { padding-top: 6px; }
+  }
+</style>
+</head>
+<body>
+<header class="wrap">
+  <div class="kicker">Plain writing, five ways</div>
+  <h1>Say it plainly</h1>
+  <p class="lead">I write for people who are busy. These are the rules I use, built into five skills for an AI tool. Below is a private checker that points at the words worth a second look.</p>
+  <a href="https://github.com/shaunmarsden/say-it-plainly">&larr; Back to the repository</a>
+</header>
+
+<main class="wrap">
+  <section aria-labelledby="check-title">
+    <h2 id="check-title">Check your writing</h2>
+    <div class="panel">
+      <div class="controls">
+        <div>
+          <label for="usecase">What is it?</label>
+          <select id="usecase">
+            <option value="any">Any writing</option>
+            <option value="email">An email or message</option>
+            <option value="notes">Meeting or call notes</option>
+            <option value="report">A report or proposal</option>
+            <option value="post">A public post or web page</option>
+          </select>
+        </div>
+        <div>
+          <label class="check"><input type="checkbox" id="fmt"> <span>Use the house formatting rules: dates like 21st May, numbers one to nine spelled out, straight quotes, full currency figures.</span></label>
+          <p class="hint">These are my preferences, not rules of good writing. Leave this off unless you want them.</p>
+        </div>
+        <div>
+          <label for="text">Paste your writing here</label>
+          <textarea id="text" spellcheck="false" aria-describedby="privacy"></textarea>
+        </div>
+        <div><button type="button" id="example">Try an example</button></div>
+      </div>
+      <div id="results" aria-live="polite"></div>
+      <p class="private" id="privacy">Your text stays on this page. Nothing is sent anywhere, and nothing is saved. Close the tab and it is gone.</p>
+    </div>
+  </section>
+
+  <section aria-labelledby="skills-title">
+    <h2 id="skills-title">Five skills for an AI tool</h2>
+    <p>Each skill can review your writing and leave it alone, or rewrite it without adding a fact you did not give. Each one carries all its own rules, so you can paste a single file into any AI chat.</p>
+    <table>
+      <thead><tr><th scope="col">Skill</th><th scope="col">For</th><th scope="col">Install</th></tr></thead>
+      <tbody>
+        <tr><th scope="row"><a href="https://github.com/shaunmarsden/say-it-plainly/blob/main/skills/plain-writing/SKILL.md">plain-writing</a></th><td>Any piece of writing</td><td><code>npx skills add shaunmarsden/say-it-plainly --skill plain-writing</code></td></tr>
+        <tr><th scope="row"><a href="https://github.com/shaunmarsden/say-it-plainly/blob/main/skills/plain-email/SKILL.md">plain-email</a></th><td>Emails and messages</td><td><code>npx skills add shaunmarsden/say-it-plainly --skill plain-email</code></td></tr>
+        <tr><th scope="row"><a href="https://github.com/shaunmarsden/say-it-plainly/blob/main/skills/plain-notes/SKILL.md">plain-notes</a></th><td>Meeting and call notes</td><td><code>npx skills add shaunmarsden/say-it-plainly --skill plain-notes</code></td></tr>
+        <tr><th scope="row"><a href="https://github.com/shaunmarsden/say-it-plainly/blob/main/skills/plain-report/SKILL.md">plain-report</a></th><td>Reports and proposals</td><td><code>npx skills add shaunmarsden/say-it-plainly --skill plain-report</code></td></tr>
+        <tr><th scope="row"><a href="https://github.com/shaunmarsden/say-it-plainly/blob/main/skills/plain-post/SKILL.md">plain-post</a></th><td>Posts and web pages</td><td><code>npx skills add shaunmarsden/say-it-plainly --skill plain-post</code></td></tr>
+      </tbody>
+    </table>
+    <p><strong>No install needed.</strong> Open a skill on GitHub, click <strong>Raw</strong>, copy the whole file, paste it into any AI chat, then paste your writing underneath.</p>
+  </section>
+
+  <section aria-labelledby="rules-title">
+    <h2 id="rules-title">The twelve rules</h2>
+    <ol class="rules">
+      <li>Write for one reader.</li>
+      <li>Put the point first.</li>
+      <li>One idea to a sentence.</li>
+      <li>Use the short, everyday word.</li>
+      <li>Cut what does no work.</li>
+      <li>Name who did it.</li>
+      <li>Drop stock phrases and filler.</li>
+      <li>Be specific enough to be checked.</li>
+      <li>Keep real uncertainty and cut the rest.</li>
+      <li>Say how two things relate.</li>
+      <li>Claim no more than you know.</li>
+      <li>Break any rule before you write something clumsy.</li>
+    </ol>
+    <p>Each skill spells these out, and adds the few rules that belong to its kind of writing.</p>
+  </section>
+
+  <section aria-labelledby="limits-title">
+    <h2 id="limits-title">What this does not do</h2>
+    <ul>
+      <li>The checker looks at words and sentence length. It cannot tell whether you are right, or whether your writing is any good.</li>
+      <li>It will flag things that are fine. A hedge may be honest. A long sentence may be the right one. Ignore a flag when you have a reason.</li>
+      <li>"Common in machine-written text" is not an AI detector. Plenty of people write like that too.</li>
+      <li>Reading ease is an estimate from word and sentence length. It is not a verdict.</li>
+      <li>I have not yet tested whether the skills improve real writing, and I will not say they do until I have.</li>
+      <li>English only.</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>MIT licence. The rules owe most to George Orwell's six rules in "Politics and the English Language" (1946). The idea of a writing skill with a private checker came from Addy Osmani's Clarity. These rules, skills and code are my own.</p>
+  </div>
+</footer>
+
+<script src="checker.js"></script>
+<script>
+(function () {
+  var SAMPLES = {
+    any: "Our new process is designed to leverage best practices in order to deliver outcomes. It is believed that the changes will be of benefit going forward, and a decision was made to proceed.",
+    email: "Hi Sam,\n\nI hope this email finds you well. I just wanted to reach out to touch base about the proposal that was sent last week. We think it could really unlock value for your team going forward. Would you be free for a call on Thursday? Also, can you send the signed order form?\n\nThanks in advance!",
+    notes: "Catalogue migration catch-up.\n- Records are all across now and the validation fix worked.\n- Testing seems to be going well. Ines reckons feedback is positive so far.\n- Spend is about 70,000 now.\n- We agreed to move go live to the 15th.",
+    report: "This report sets out the background to the supplier review, the process we followed and the data we gathered over the last quarter. Several factors were considered. The supplier is robust. In conclusion, a change may be worth exploring.",
+    post: "I'm thrilled to announce that after months of hard work we have finally launched a game-changing platform that will unlock the power of AI for every team in today's fast-paced world and change how you work forever. Thoughts? #ai #future #innovation #tech"
+  };
+  var textEl = document.getElementById("text");
+  var useEl = document.getElementById("usecase");
+  var fmtEl = document.getElementById("fmt");
+  var resultsEl = document.getElementById("results");
+  var timer = null;
+
+  function el(tag, className, text) {
+    var node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text !== undefined) node.textContent = text;
+    return node;
+  }
+
+  function shorten(s) {
+    s = s.replace(/\s+/g, " ");
+    return s.length > 140 ? s.slice(0, 137) + "..." : s;
+  }
+
+  function render() {
+    var text = textEl.value;
+    resultsEl.textContent = "";
+    if (!text.trim()) {
+      resultsEl.appendChild(el("p", "stats", "Paste some writing above, or try an example."));
+      return;
+    }
+    var result = SayItPlainly.analyse(text, { useCase: useEl.value, houseFormatting: fmtEl.checked });
+    var count = result.issues.length + result.notes.length;
+
+    resultsEl.appendChild(el("p", "summary", count === 0 ? "Nothing flagged." : count + (count === 1 ? " thing to look at." : " things to look at.")));
+    var s = result.stats;
+    var line = s.words + " words, " + s.sentences + (s.sentences === 1 ? " sentence" : " sentences") + ", " + s.averageSentence + " words a sentence.";
+    if (s.readingEase !== null) line += " Reading ease about " + Math.round(s.readingEase) + " (" + s.band + ").";
+    resultsEl.appendChild(el("p", "stats", line));
+
+    if (count === 0) {
+      resultsEl.appendChild(el("p", null, "That does not mean it is good. Read it aloud once."));
+      return;
+    }
+
+    if (result.notes.length) {
+      var notes = el("ul", "notes");
+      result.notes.forEach(function (n) {
+        var li = el("li");
+        li.appendChild(el("span", "flag-label", n.label + ". "));
+        li.appendChild(document.createTextNode(n.message));
+        notes.appendChild(li);
+      });
+      resultsEl.appendChild(notes);
+    }
+
+    var marked = el("div", "marked");
+    marked.setAttribute("aria-label", "Your text with flagged words marked");
+    var pos = 0;
+    result.wordIssues.forEach(function (i) {
+      if (i.start > pos) marked.appendChild(document.createTextNode(text.slice(pos, i.start)));
+      var m = el("mark", null, text.slice(i.start, i.end));
+      m.title = i.label + ": " + i.message;
+      marked.appendChild(m);
+      pos = i.end;
+    });
+    if (pos < text.length) marked.appendChild(document.createTextNode(text.slice(pos)));
+    resultsEl.appendChild(marked);
+
+    var list = el("ol", "flags");
+    result.issues.forEach(function (i) {
+      var li = el("li");
+      li.appendChild(el("span", "flag-label", i.label + ": "));
+      li.appendChild(el("span", "flag-quote", '"' + shorten(i.text) + '"'));
+      li.appendChild(el("span", "flag-message", i.message));
+      list.appendChild(li);
+    });
+    resultsEl.appendChild(list);
+    resultsEl.appendChild(el("p", "private", "These are prompts to look again, not errors. Some will be wrong for your text."));
+  }
+
+  textEl.addEventListener("input", function () { clearTimeout(timer); timer = setTimeout(render, 200); });
+  useEl.addEventListener("change", render);
+  fmtEl.addEventListener("change", render);
+  document.getElementById("example").addEventListener("click", function () {
+    textEl.value = SAMPLES[useEl.value];
+    render();
+    textEl.focus();
+  });
+  render();
+})();
+</script>
+</body>
+</html>
