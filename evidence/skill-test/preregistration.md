@@ -1,6 +1,6 @@
 # Pre-registration: do the skills help?
 
-Written on 26th October 2026 at 12:45 GMT, before any reply was generated. The commit time on this file is the proof.
+Written on 26th October 2026, before any reply was generated. The time of the first commit on this branch (12:42 GMT) is the proof.
 
 ## The question
 
