@@ -20,6 +20,12 @@ The quickest way needs no install. Open a skill below, click **Raw**, copy the w
 
 To install one for an AI coding tool, run for example `npx skills add shaunmarsden/say-it-plainly --skill plain-email`.
 
+**Want something shorter?** In my [test](evidence/skill-test/results.md) a single paragraph kept a draft's claims about as well as a skill did. Paste this above your writing:
+
+> Rewrite this in plain words. Put the point first, use short everyday words, cut filler and name who did what. Keep every figure, every hedge and every disagreement exactly as strong as it is in my draft, and add no fact, name, date or owner that I did not give.
+
+That was three drafts and 18 replies, so it is a hint, not a proof. The skills add review mode, rules for each kind of writing, and questions about what they could not tell.
+
 ## What a skill does
 
 - **Review** critiques your text and leaves it alone. You get a verdict, the seven changes that would help most (each with the exact words quoted), what already works, and what it could not tell without more from you.
