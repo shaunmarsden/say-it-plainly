@@ -1,0 +1,23 @@
+Here is a clearer version. I changed the order and wording only. I did not settle anything the notes left open.
+
+**Weekly pipeline meeting, 23 October**
+Present: Alma, Ben, Chidi, me.
+
+**Decided**
+- The forecast call is on Monday, not Tuesday.
+
+**Actions**
+- Ben: update the forecast.
+- Chidi: look at the Foxglove contract, if he has time. This is not a firm commitment.
+
+**Discussed, not decided**
+- Foxglove: Alma thinks it will close this month. Ben disagrees because legal has not started. Chidi said legal might be quick, since the contract is standard.
+- Marlow: we talked about moving it to next quarter and did not decide.
+- Quillon: Alma wants to cut the discount from 15% to 10%. Ben said that would lose the deal. I had no view. No decision.
+
+**Open question**
+- The forecast total is 1.2m. I am not sure whether that includes Marlow. Ben should check this when he updates the forecast, if you agree.
+
+Two things to check before you send this on:
+- The notes say Chidi "might" look at the contract, so I kept it as a soft action. If he did agree to do it, change it to a firm one.
+- The last line, asking Ben to check the 1.2m, is my suggestion. It is not in your notes. Delete it if you do not want it.

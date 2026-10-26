@@ -1,0 +1,92 @@
+{
+ "d323222": {
+  "draft": "planning",
+  "arm": "skill",
+  "run": 2
+ },
+ "d581509": {
+  "draft": "pipeline",
+  "arm": "bare",
+  "run": 1
+ },
+ "d527051": {
+  "draft": "supplier",
+  "arm": "skill",
+  "run": 2
+ },
+ "d469981": {
+  "draft": "supplier",
+  "arm": "paragraph",
+  "run": 2
+ },
+ "d817260": {
+  "draft": "pipeline",
+  "arm": "paragraph",
+  "run": 2
+ },
+ "d791864": {
+  "draft": "pipeline",
+  "arm": "skill",
+  "run": 1
+ },
+ "d314013": {
+  "draft": "supplier",
+  "arm": "skill",
+  "run": 1
+ },
+ "d325039": {
+  "draft": "planning",
+  "arm": "paragraph",
+  "run": 2
+ },
+ "d586317": {
+  "draft": "pipeline",
+  "arm": "bare",
+  "run": 2
+ },
+ "d190434": {
+  "draft": "pipeline",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "d739045": {
+  "draft": "planning",
+  "arm": "skill",
+  "run": 1
+ },
+ "d978793": {
+  "draft": "planning",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "d320196": {
+  "draft": "supplier",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "d965121": {
+  "draft": "supplier",
+  "arm": "bare",
+  "run": 2
+ },
+ "d139626": {
+  "draft": "planning",
+  "arm": "bare",
+  "run": 1
+ },
+ "d814676": {
+  "draft": "supplier",
+  "arm": "bare",
+  "run": 1
+ },
+ "d187503": {
+  "draft": "planning",
+  "arm": "bare",
+  "run": 2
+ },
+ "d305664": {
+  "draft": "pipeline",
+  "arm": "skill",
+  "run": 2
+ }
+}

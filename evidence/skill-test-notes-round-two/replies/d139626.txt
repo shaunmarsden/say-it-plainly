@@ -1,0 +1,26 @@
+Here is a clearer version. I kept the open points open rather than settling them, since the notes don't settle them.
+
+**Harbourline Foods: quarterly planning call, 21 October**
+
+**Present:** Priya Raman and Dev Mistry (Harbourline); Callum and Jo (us).
+
+**Decision**
+- Go ahead with a second pilot at the Leeds depot. Dev did not look convinced.
+
+**Open questions**
+- **Time saved by the first pilot.** Priya said about 10 hours a week. Dev said nearer 6, and that Priya was counting setup time. Callum thinks both figures could be right, depending on the week.
+- **Budget.** Priya said the 40k was approved. Dev later said it was a request and not yet approved. We did not resolve this on the call.
+- **Data-sharing terms.** Dev seemed worried about them but did not say why.
+
+**Actions**
+- **Revised proposal:** Jo is to send it, I think by Friday. It may be Callum instead. The owner and the date both need confirming.
+
+**Next meeting**
+- Priya wants the review in November, possibly the 12th. The date is not fixed.
+
+Things for you to check before this goes anywhere:
+1. Who sends the proposal, and by when. I did not guess.
+2. Whether the 40k is approved. Until that is known, I would not quote it as agreed budget anywhere.
+3. What is behind Dev's concern about the data-sharing terms. It could matter for the Leeds pilot, since he also looked unconvinced about that.
+
+I left out "Dev seemed worried" and "did not look convinced" as conclusions about his view. They are your impressions, so they are worded as such. If this is going to the customer, remove those two lines and the note about Priya counting setup time.

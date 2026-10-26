@@ -57,6 +57,10 @@ I fixed these before unblinding and wrote them in the scores file.
 
 It now says what was tested: that on three drafts the skills kept claims as well as a short paragraph and better than a bare request. It does not say the skills improve writing, because I have not shown that.
 
+## Round two
+
+The notes draft showed nothing here, so I ran a second round on messier notes. The skill did not do better than the paragraph there. See the [round two results](../skill-test-notes-round-two/results.md).
+
 ## Files
 
 - `preregistration.md`, `drafts/`, `prompts/`: what I fixed before running.

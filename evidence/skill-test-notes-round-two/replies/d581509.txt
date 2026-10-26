@@ -1,0 +1,36 @@
+Here is a clearer version. I changed the structure only. I did not add any facts, owners or decisions that your notes don't contain.
+
+**Weekly pipeline meeting, 23 October**
+Present: Alma, Ben, Chidi, me
+
+**Decision**
+- The forecast call is on Monday, not Tuesday.
+
+**Actions**
+- Ben: update the forecast.
+- Chidi: look at the Foxglove contract, if he has time (not a firm commitment).
+
+**Discussion**
+
+Foxglove
+- Alma expects it to close this month.
+- Ben disagreed: legal has not started.
+- Chidi said legal might be quick because the contract is standard.
+- Not settled. Whether it closes this month depends on how quickly legal can move.
+
+Marlow
+- We talked about moving it to next quarter. No decision.
+
+Quillon
+- Alma wants to cut the discount from 15% to 10%.
+- Ben said that would lose the deal.
+- I had no view. No decision.
+
+**Open questions**
+- Forecast total is 1.2m. I am not sure whether that includes Marlow. Worth checking before Monday, since Ben is updating the forecast and Marlow may move to next quarter.
+- Foxglove: has legal been asked to start yet?
+- Quillon: who decides the discount, and when?
+
+Two things to check on your side:
+- Your notes don't say who owns the Marlow and Quillon decisions, so I left them without an owner rather than guess.
+- I added the "Open questions" section and the pointer to Monday in the first one. Those are my suggestions, not things anyone said in the meeting. Delete them if you'd rather keep the notes strictly to what was said.
