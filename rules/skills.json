@@ -19,7 +19,7 @@
     "name": "plain-notes",
     "title": "Plain Notes",
     "description": "Review or rewrite meeting or call notes so each line shows who said it and how far it can be trusted. Use for notes that someone else will act on.",
-    "intro": "This skill reviews or rewrites meeting or call notes so that each line shows who said it and how far it can be trusted. It never adds a detail nobody said.",
+    "intro": "This skill reviews or rewrites meeting or call notes so that each line shows who said it and how far it can be trusted. It is told to add no detail nobody said.",
     "use_case": "use-cases/notes.md",
     "interview": false
   },
