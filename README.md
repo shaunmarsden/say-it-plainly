@@ -20,11 +20,11 @@ The quickest way needs no install. Open a skill below, click **Raw**, copy the w
 
 To install one for an AI coding tool, run for example `npx skills add shaunmarsden/say-it-plainly --skill plain-email`.
 
-**Want something shorter?** In my tests a single paragraph kept a draft's claims about as well as a skill did ([email and report](evidence/skill-test/results.md)). On call notes it did better than the first version of the notes skill, and after I tightened that skill the two matched ([round two](evidence/skill-test-notes-round-two/results.md), [round three](evidence/skill-test-notes-round-three/results.md)). Paste this above your writing:
+**Want something shorter?** In my tests a single paragraph kept a draft's claims about as well as a skill did ([email and report](evidence/skill-test/results.md)). On call notes it did better than the first version of the notes skill, and after I tightened that skill the two matched ([round two](evidence/skill-test-notes-round-two/results.md), [round three](evidence/skill-test-notes-round-three/results.md)). On longer, messier drafts for the other four skills, the paragraph and the skills lost nothing and invented nothing, where a bare "make this clearer" did both ([round five](evidence/skill-test-round-five/results.md)). In that round the report skill added a line on how sure the writer was, which the draft had not said, so check that line if you use it. Paste this above your writing:
 
 > Rewrite this in plain words. Put the point first, use short everyday words, cut filler and name who did what. Keep every figure, every hedge and every disagreement exactly as strong as it is in my draft, and add no fact, name, date or owner that I did not give.
 
-That was thirteen drafts and 84 replies, so it is a hint, not a proof. The skills add review mode, rules for each kind of writing, and questions about what they could not tell.
+That was seventeen drafts and 108 replies, so it is a hint, not a proof. The skills add review mode, rules for each kind of writing, and questions about what they could not tell.
 
 ## What a skill does
 

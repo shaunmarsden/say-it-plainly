@@ -1,0 +1,122 @@
+{
+ "p869805": {
+  "draft": "report",
+  "arm": "skill",
+  "run": 1
+ },
+ "p434616": {
+  "draft": "post",
+  "arm": "paragraph",
+  "run": 2
+ },
+ "p294590": {
+  "draft": "general",
+  "arm": "skill",
+  "run": 1
+ },
+ "p121549": {
+  "draft": "email",
+  "arm": "bare",
+  "run": 1
+ },
+ "p938911": {
+  "draft": "general",
+  "arm": "bare",
+  "run": 1
+ },
+ "p447030": {
+  "draft": "post",
+  "arm": "skill",
+  "run": 1
+ },
+ "p646614": {
+  "draft": "post",
+  "arm": "bare",
+  "run": 1
+ },
+ "p936833": {
+  "draft": "email",
+  "arm": "paragraph",
+  "run": 2
+ },
+ "p416868": {
+  "draft": "general",
+  "arm": "skill",
+  "run": 2
+ },
+ "p865729": {
+  "draft": "report",
+  "arm": "skill",
+  "run": 2
+ },
+ "p180907": {
+  "draft": "email",
+  "arm": "skill",
+  "run": 1
+ },
+ "p668874": {
+  "draft": "report",
+  "arm": "bare",
+  "run": 2
+ },
+ "p577695": {
+  "draft": "post",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "p719156": {
+  "draft": "report",
+  "arm": "paragraph",
+  "run": 2
+ },
+ "p197427": {
+  "draft": "report",
+  "arm": "bare",
+  "run": 1
+ },
+ "p274329": {
+  "draft": "email",
+  "arm": "bare",
+  "run": 2
+ },
+ "p511185": {
+  "draft": "report",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "p407505": {
+  "draft": "general",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "p571807": {
+  "draft": "post",
+  "arm": "bare",
+  "run": 2
+ },
+ "p417921": {
+  "draft": "post",
+  "arm": "skill",
+  "run": 2
+ },
+ "p200456": {
+  "draft": "email",
+  "arm": "skill",
+  "run": 2
+ },
+ "p135061": {
+  "draft": "general",
+  "arm": "bare",
+  "run": 2
+ },
+ "p256589": {
+  "draft": "email",
+  "arm": "paragraph",
+  "run": 1
+ },
+ "p166582": {
+  "draft": "general",
+  "arm": "paragraph",
+  "run": 2
+ }
+}
