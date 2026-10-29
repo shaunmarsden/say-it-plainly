@@ -1,0 +1,19 @@
+(The names and figures below are made up.)
+
+Rewrite this to make it clearer.
+
+Thrilled to share some learnings from my AI journey!
+
+For the last two months I've been using an AI tool to summarise my customer calls. 140 calls so far.
+
+The good: by my rough timing on 20 of those calls, it saves me about six minutes a call. I haven't timed the rest.
+
+The not so good: it got the next steps wrong in 9 of the 140 summaries, usually when two people were talking at once. And once it put a complaint against the wrong customer. A colleague caught that one before it went into our CRM.
+
+So I still read every summary before I save it, and I don't plan to stop.
+
+Two of the four people in my team stopped using it after a week. They found checking the summary slower than writing their own notes.
+
+I've only tried one tool, so I honestly don't know whether another one would do better.
+
+What's your experience been? Drop a comment below! #AI #Productivity #Sales #FutureOfWork
