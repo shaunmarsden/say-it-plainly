@@ -1,0 +1,23 @@
+Here is the rewrite:
+
+---
+
+An AI tool saves me about six minutes a call, but I still read every summary before I save it.
+
+For two months I've used it to summarise my customer calls. 140 so far. The six minutes comes from my rough timing on 20 of those calls. I haven't timed the rest.
+
+It got the next steps wrong in 9 of the 140 summaries, usually when two people were talking at once. Once it put a complaint against the wrong customer. A colleague caught that before it went into our CRM.
+
+I don't plan to stop checking.
+
+Two of the four people in my team stopped using it after a week. They found checking the summary slower than writing their own notes.
+
+I've only tried one tool, so I don't know whether another one would do better.
+
+What's your experience been? Drop a comment below.
+
+#AI #Productivity #Sales #FutureOfWork
+
+---
+
+What I changed: I cut the "Thrilled to share" opener and the "good / not so good" labels, and I put the six-minute point and the read-every-summary point first. Every figure and hedge is as you had it: 140 calls, 20 timed, 9 wrong, one wrong-customer complaint caught by a colleague, two of four stopped, one tool tried. I added nothing.

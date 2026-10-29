@@ -1,0 +1,47 @@
+Returns kiosk pilot: six-week update
+
+I recommend extending the pilot to four more stores for three months, not rolling it out to all 40 stores yet. I need a decision from the operations director by 21st November, so that the order can be placed before the supplier's quote runs out on 30th November.
+
+How sure I am: not very. The evidence comes from six weeks at two stores, and only Hexham gave a usable time figure. The survey was small, and the staff-time question is unresolved.
+
+What we measured
+- At Hexham, the average time to handle a return fell from 7 minutes to 4 minutes.
+- At Morpeth we have no reliable time figure, because its kiosk was offline for 9 of the 42 days.
+- We surveyed customers who used the kiosk. There were 62 responses, and 71% rated it good or very good. This is a small sample. We only asked people who used the kiosk, not those who queued at the till instead.
+- Hexham had two suspected fraudulent returns during the pilot. We do not know whether either was linked to the kiosk.
+
+What we disagree about
+Gareth, the Morpeth store manager, says the time staff saved was mostly spent helping customers use the kiosk. The regional lead thinks this will settle down once customers are used to it. We have not resolved this.
+
+Cost
+Each kiosk costs £3,100, plus about £150 a month for support.
+
+What we did not look at
+- Weekend trading
+- The effect on staff morale
+
+Decision needed
+Approve the extension to four more stores for three months, by 21st November.
+
+---
+
+What I changed
+- Moved the recommendation and the decision date to the first paragraph, and cut the opening sentence ("As many of you will know... going forward"), which said nothing.
+- Added one sentence on how sure the report is, using only what you had already written.
+- Split measured results from the disagreement, so a reader can tell which is which.
+- Gave the unchecked items their own short list.
+- Tied the 30th November quote to the 21st November deadline with "so that".
+- Added headings and bullets so each fact can be found quickly. If you prefer plain paragraphs, say so.
+
+What I kept on purpose
+- Every figure and name as you gave it: 7 to 4 minutes, 9 of 42 days, 62 responses, 71%, two suspected fraud cases, £3,100, £150, 40 stores, the dates.
+- Your caveats on the survey and on the fraud cases, unchanged.
+- "We have not resolved this" on the staff-time disagreement. I did not say who is more likely to be right.
+- The recommendation stays a recommendation to extend. I did not claim the kiosk works, only what was measured.
+
+What I need from you
+- Why extend rather than roll out? Your text does not say. I wrote "not very sure" and listed the gaps, but I did not state the reason for extending. Is it the limited evidence, or something else?
+- Where did the 7 and 4 minute figures come from (a timed sample, till data, staff estimates), and how many returns were measured?
+- When did the survey run, and who ran it?
+- Should the report give the total cost of four more kiosks over three months? I left it out because the numbers are not in your text.
+- Is the quote date of 30th November the supplier's own date? I assumed so from your wording.
