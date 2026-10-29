@@ -1,0 +1,28 @@
+For the last two months I've used an AI tool to summarise my customer calls. 140 so far. I still read every summary before I save it, and I don't plan to stop.
+
+It saves me about six minutes a call. That is my rough timing on 20 of the calls. I haven't timed the rest.
+
+It got the next steps wrong in 9 of the 140 summaries, usually when two people were talking at once. Once it put a complaint against the wrong customer. A colleague caught that before it went into our CRM.
+
+Two of the four people in my team stopped using it after a week. They found checking the summary slower than writing their own notes.
+
+I've only tried one tool, so I don't know whether another one would do better.
+
+**What I changed**
+- Removed the opener "Thrilled to share some learnings from my AI journey!". The post now starts with the 140 calls and the habit of reading every summary.
+- Moved "I still read every summary" up to the opening, because it is the main point and the later "So" depended on it.
+- Removed "The good:" and "The not so good:" labels. The sentences say which is which.
+- Removed the closing question and the hashtags, because they ask for engagement and add nothing for the reader.
+- Cut "honestly" and "Drop a comment below".
+
+**What I kept on purpose**
+- Every figure: 140 calls, six minutes, 20 timed calls, 9 wrong summaries, two of four colleagues, one week, two months.
+- The hedge "by my rough timing on 20 of those calls" and "I haven't timed the rest". They mark real uncertainty.
+- "I've only tried one tool, so I don't know whether another one would do better."
+- The wrong-customer complaint and the colleague who caught it. Only you could say that.
+- Your plain first-person voice.
+
+**What I need from you**
+- Do the four people in your team include you?
+- Did the 6 minutes saved count the time you spend reading the summary, or only the time to produce it?
+- Do you want any hashtags back? I left all of them out.

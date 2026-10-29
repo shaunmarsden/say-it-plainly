@@ -1,0 +1,152 @@
+{
+ "p256589": {
+  "draft": "email",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p936833": {
+  "draft": "email",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p274329": {
+  "draft": "email",
+  "lost": 0,
+  "invented": 1,
+  "additions": 0
+ },
+ "p121549": {
+  "draft": "email",
+  "lost": 0,
+  "invented": 0,
+  "additions": 1
+ },
+ "p180907": {
+  "draft": "email",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p200456": {
+  "draft": "email",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p668874": {
+  "draft": "report",
+  "lost": 0,
+  "invented": 1,
+  "additions": 1
+ },
+ "p511185": {
+  "draft": "report",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p719156": {
+  "draft": "report",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p197427": {
+  "draft": "report",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p869805": {
+  "draft": "report",
+  "lost": 0,
+  "invented": 0,
+  "additions": 1
+ },
+ "p865729": {
+  "draft": "report",
+  "lost": 0,
+  "invented": 0,
+  "additions": 1
+ },
+ "p577695": {
+  "draft": "post",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0,
+  "bait_cut": 0
+ },
+ "p434616": {
+  "draft": "post",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0,
+  "bait_cut": 0
+ },
+ "p646614": {
+  "draft": "post",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0,
+  "bait_cut": 0
+ },
+ "p571807": {
+  "draft": "post",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0,
+  "bait_cut": 1
+ },
+ "p447030": {
+  "draft": "post",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0,
+  "bait_cut": 1
+ },
+ "p417921": {
+  "draft": "post",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0,
+  "bait_cut": 1
+ },
+ "p407505": {
+  "draft": "general",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p166582": {
+  "draft": "general",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p938911": {
+  "draft": "general",
+  "lost": 1,
+  "invented": 0,
+  "additions": 0
+ },
+ "p135061": {
+  "draft": "general",
+  "lost": 1,
+  "invented": 0,
+  "additions": 0
+ },
+ "p416868": {
+  "draft": "general",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ },
+ "p294590": {
+  "draft": "general",
+  "lost": 0,
+  "invented": 0,
+  "additions": 0
+ }
+}

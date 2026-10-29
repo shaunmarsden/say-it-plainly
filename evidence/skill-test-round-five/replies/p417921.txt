@@ -1,0 +1,33 @@
+For the last two months I've been using an AI tool to summarise my customer calls. 140 calls so far.
+
+By my rough timing on 20 of those calls, it saves me about six minutes a call. I haven't timed the rest.
+
+It got the next steps wrong in 9 of the 140 summaries, usually when two people were talking at once. Once it put a complaint against the wrong customer. A colleague caught that one before it went into our CRM.
+
+So I still read every summary before I save it, and I don't plan to stop.
+
+Two of the four people in my team stopped using it after a week. They found checking the summary slower than writing their own notes.
+
+I've only tried one tool, so I don't know whether another one would do better.
+
+**What I changed**
+
+- Cut the opener "Thrilled to share some learnings from my AI journey!" The post now starts with the fact.
+- Cut "The good:" and "The not so good:". The content says which is which.
+- Cut the closing "What's your experience been? Drop a comment below!" It asks for comments and adds nothing.
+- Cut the four hashtags. None of them helps a reader find or understand the post.
+- Cut "honestly" from the last line. The sentence works without it.
+- Changed "And once it put" to "Once it put", and joined the sentence about the colleague to the one before it by keeping them adjacent as one thought.
+
+**What I kept on purpose**
+
+- "By my rough timing on 20 of those calls" and "I haven't timed the rest". Both mark real uncertainty about the six minutes.
+- Every figure: 140 calls, 20 timed, 9 wrong, two of four colleagues.
+- The cause for the errors, "usually when two people were talking at once", with its "usually".
+- The wrong-customer complaint and the colleague who caught it.
+- "I don't plan to stop" and the last line about trying only one tool. It ends where the thought ends.
+
+**What I need from you**
+
+- Is the six minutes a call the time saved after you read and check the summary, or before? The post does not say, and a reader will ask.
+- Do you want any hashtag back? If so, which one would a reader actually search for?

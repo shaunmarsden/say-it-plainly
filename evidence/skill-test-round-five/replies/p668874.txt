@@ -1,0 +1,20 @@
+Returns kiosk pilot: six-week update
+
+Decision needed from the operations director by 21 November: approve extending the pilot to four more stores for three months. The kiosk supplier's quote runs out on 30 November, so the order has to be placed before then. I am not recommending a rollout to all 40 stores yet.
+
+What the pilot showed
+
+The pilot ran for six weeks at two stores, Hexham and Morpeth.
+- Hexham: the average time to handle a return fell from 7 minutes to 4.
+- Morpeth: I have no reliable figure, because its kiosk was offline for 9 of the 42 days.
+- Customer survey: 62 kiosk users responded and 71% rated it good or very good. That is a small sample, and I only asked people who used the kiosk, not those who queued at the till instead.
+
+What we do not know
+
+- Staff time. Gareth, the Morpeth store manager, says the time staff saved was mostly spent helping customers use the kiosk. The regional lead thinks this will settle down once customers are used to it. This is unresolved, and a longer pilot should settle it.
+- Fraud. Hexham had two suspected fraudulent returns during the pilot. I do not know whether either was linked to the kiosk.
+- Weekend trading and staff morale. I did not look at either.
+
+Cost
+
+Each kiosk costs £3,100, plus about £150 a month for support.

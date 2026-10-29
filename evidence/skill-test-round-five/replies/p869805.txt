@@ -1,0 +1,47 @@
+Returns kiosk pilot: six-week update
+
+I recommend extending the pilot to four more stores for three months, not rolling it out to all 40 stores yet. I need a decision from the operations director by 21st November, so that the order can be placed before the supplier's quote runs out on 30th November. The evidence is limited: only one of the two pilot stores gave a reliable time figure, and the survey covered 62 kiosk users.
+
+What we found
+
+The pilot ran for six weeks at two stores, Hexham and Morpeth. At Hexham, the average time to handle a return fell from 7 minutes to 4 minutes. We do not have a reliable figure for Morpeth, because its kiosk was offline for 9 of the 42 days.
+
+We surveyed customers who used the kiosk. There were 62 responses, and 71% rated it good or very good. This is a small sample, and we only asked people who used the kiosk, not those who queued at the till instead.
+
+What we do not know
+
+Staff time: Gareth, the Morpeth store manager, says the time staff saved was mostly spent helping customers use the kiosk. The regional lead thinks this will settle down once customers are used to it. We have not resolved this.
+
+Fraud: Hexham had two suspected fraudulent returns during the pilot. We do not know whether either was linked to the kiosk.
+
+What we did not look at: weekend trading, and the effect on staff morale.
+
+Cost
+
+Each kiosk costs £3,100, plus about £150 a month for support. The supplier's quote is valid until 30th November.
+
+Decision needed
+
+Please decide by 21st November whether to extend the pilot to four more stores for three months.
+
+---
+
+What I changed
+- Moved the recommendation and the decision date into the first paragraph, and cut the opening sentence ("As many of you will know... going forward"), which said nothing the title did not.
+- Added one sentence on how sure the evidence is, built only from facts already in your text (one reliable store, 62 survey responses).
+- Grouped the text under four short headings so the measured findings, the open questions and the cost can be found separately.
+- Moved the "did not look at" line next to the other unknowns.
+- Turned the closing line into a plain request for the decision, without repeating the recommendation at length.
+
+What I kept on purpose
+- Every figure, name and date: 7 to 4 minutes, 9 of 42 days, 62 responses, 71%, £3,100, about £150 a month, 21st and 30th November.
+- Your hedges on the small sample, the unresolved staff-time disagreement, and the unknown fraud link. They mark real uncertainty.
+- The disagreement between Gareth and the regional lead, with neither side favoured.
+- Your plain, first-person voice in the recommendation and the request for a decision.
+
+What I need from you
+- Where did the 7 and 4 minute figures come from (till logs, a stopwatch, a manager's estimate), and what period do they cover?
+- When was the survey run, and who ran it?
+- Is the £150 a month per kiosk or for the whole pilot? Does the extension need four new kiosks, or would the two existing ones move?
+- Do you have a total cost for the four-store, three-month extension? The text gives only the unit prices, so I did not work one out.
+- Is the quote valid for the extension order as well as a full rollout?

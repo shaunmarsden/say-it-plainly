@@ -1,0 +1,24 @@
+Here's a clearer version. I kept every fact and number as you gave them, cut the opener and the closing comment prompt, and put the verdict up front.
+
+---
+
+For two months I've used an AI tool to summarise my customer calls. I've run 140 calls through it so far. I still check every summary before I save it, and I don't plan to stop.
+
+What worked: on the 20 calls I timed, it saved me about six minutes a call. I haven't timed the other 120.
+
+What didn't: it got the next steps wrong in 9 of the 140 summaries, usually when two people talked at once. Once it put a complaint against the wrong customer. A colleague caught that before it went into our CRM.
+
+Two of the four people on my team stopped using it after a week. They found checking the summary slower than writing their own notes.
+
+I've only tried one tool, so I don't know whether another would do better.
+
+---
+
+Notes on what I changed:
+
+- "Thrilled to share some learnings from my AI journey" says nothing. Starting with what you did and the decision you made gives readers the point straight away.
+- I moved "I still read every summary" to the top because it is the main takeaway, and the rest explains why.
+- I wrote "the other 120" so readers can see how thin the timing evidence is. You said you hadn't timed the rest, and the number makes that plain.
+- I dropped "Drop a comment below" and the hashtags. If you want to invite replies, a specific question works better, such as "Has anyone found a tool that handles two people talking at once?" Add it back if you want it.
+
+One thing to check: "two of the four people in my team" could mean four including you or four besides you. I wrote "on my team", which keeps it open. Change it if you want it exact.

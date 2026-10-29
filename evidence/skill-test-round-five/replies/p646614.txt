@@ -1,0 +1,29 @@
+Here's a clearer version:
+
+---
+
+For two months I've used an AI tool to summarise my customer calls. So far that's 140 calls.
+
+What worked: it saves me about six minutes a call. That's from timing 20 of the calls. I haven't timed the other 120.
+
+What didn't:
+- It got the next steps wrong in 9 of the 140 summaries, usually when two people spoke at once.
+- Once it put a complaint against the wrong customer. A colleague caught it before it reached our CRM.
+
+Because of that, I read every summary before I save it, and I don't plan to stop.
+
+Two of the four people on my team stopped using it after a week. They found checking the summary slower than writing their own notes.
+
+I've only tried one tool, so I don't know whether another would do better.
+
+Has anyone else tried this? What did you find?
+
+---
+
+What I changed:
+- Cut the opening ("Thrilled to share some learnings from my AI journey") and the hashtags. They said nothing, and the post starts better with the first real fact.
+- Turned the "good / not so good" labels into plainer ones and put the two problems in a short list, so they're easy to tell apart.
+- Kept every number and every hedge exactly as you had them: 140 calls, six minutes from 20 timed calls, 9 wrong next steps, one misfiled complaint, two of four teammates stopping, one tool tried. I didn't round anything up or add anything.
+- Replaced "Drop a comment below!" with a plain question.
+
+If you want the hashtags back, add them at the end. The text doesn't need them.
